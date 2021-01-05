@@ -1,15 +1,15 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
   <div class="container">
     <a class="navbar-brand" href="#">{{ site.title }}</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav mr-auto nav-pills">
         {% for item in site.data.navigation %}
         <li class="nav-item">
           {% if page.url == item.link %}
-          <a class="nav-link active" href="{{item.link}}">{{ item.name }}
+          <a class="nav-link active text-white" href="{{item.link}}" >{{ item.name }}
             <span class="sr-only">(current)</span>
           </a>
           {% else %}
