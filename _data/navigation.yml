@@ -1,0 +1,48 @@
+# main links
+main:
+  - title: "About"
+    url: /docs/about/
+
+docs:
+  - title: Overview
+    children:
+      - title: "Project summary"
+        url: /docs/project-summary/
+      - title: "Gene expression"
+        url: /docs/gene-expression/
+      - title: "DNA methylation"
+        url: /docs/dna-methylation/
+
+  - title: DEG
+    children:
+      - title: "What are DEGs?"
+        url: /docs/differentially-expressed-gene/
+      - title: "DEGs L2:L1"
+        url: /docs/deg-l2l1/
+      - title: "DEGs L3:L1"
+        url: /docs/deg-l3l1/
+
+  - title: DMC
+    children:
+      - title: "What are DMCs?"
+        url: /docs/differentially-methylated-cpg-site/
+      - title: "DMCs L2:L1"
+        url: /docs/dmc-l2l1/
+      - title: "DMCs L3:L1"
+        url: /docs/dmc-l3l1/
+
+  - title: DMG
+    children:
+      - title: "What are DMGs?"
+        url: /docs/differentially-methylated-gene/
+      - title: "DMGs L2:L1"
+        url: /docs/dmg-l2l1/
+      - title: "DMGs L3:L1"
+        url: /docs/dmg-l3l1/
+
+  - title: Resources
+    children:
+      - title: "Downloads"
+        url: /docs/downloads/
+      - title: "Relevant projects"
+        url: /docs/links/
