@@ -42,7 +42,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "NutrEpi WP1 Liver"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Gene expression & DNA methylation" # site tagline that appears below site title in masthead
 name                     : "Takaya Saito"
 description: >- # this means to ignore newlines until "baseurl:"
   Gene expression and DNA methylation data of "Micronutrient supplementation affects
@@ -79,9 +79,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : false # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -297,17 +297,8 @@ compress_html:
   ignore:
     envs: development
 
+head_scripts:
+  - https://cdn.datatables.net/v/dt/dt-1.10.23/datatables.min.js
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+#after_footer_scripts:
+#  - https://cdn.datatables.net/1.10.23/js/jquery.dataTables.js
