@@ -298,7 +298,8 @@ compress_html:
     envs: development
 
 head_scripts:
-  - https://cdn.datatables.net/v/dt/dt-1.10.23/datatables.min.js
+  #- /assets/js/vanilla-dataTables.js
+  - https://cdn.jsdelivr.net/npm/vanilla-datatables@latest/dist/vanilla-dataTables.min.js
 
 #after_footer_scripts:
 #  - https://cdn.datatables.net/1.10.23/js/jquery.dataTables.js

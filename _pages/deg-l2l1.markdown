@@ -34,7 +34,5 @@ Need to use a JS table here.
 </table>
 
 <script>
-$(document).ready( function () {
-    $('#degl2l1').DataTable();
-} );
+const dataTable = new DataTable("#degl2l1");
 </script>

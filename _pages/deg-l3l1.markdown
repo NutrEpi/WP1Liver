@@ -13,7 +13,7 @@ Brief summary of L3:L1 DEGs.
 
 Need to use a JS table here.
 
-<table id="table_id" class="display">
+<table id="table23" class="display">
     <thead>
         <tr>
             <th>Column 1</th>
@@ -33,7 +33,5 @@ Need to use a JS table here.
 </table>
 
 <script>
-$(document).ready( function () {
-    $('#table_id').DataTable();
-} );
+const dataTable = new DataTable("#table23");
 </script>
