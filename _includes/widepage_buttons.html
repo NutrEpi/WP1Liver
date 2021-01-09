@@ -1,0 +1,11 @@
+<a name="button" class="btn btn--info" onclick="window.history.back()">Back</a>
+<a href=
+  "{{ include.previous | relative_url }}"
+  name="button" class="btn btn--info">
+  Previous
+</a>
+<a href=
+  "{{ include.next | relative_url }}"
+  name="button" class="btn btn--info">
+  Next
+</a>

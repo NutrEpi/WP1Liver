@@ -1,0 +1,246 @@
+Gene ID,LFC,Adj p-val,Gene symbol,Gene name
+106581851,-3.46,1.1E-21,lss,lanosterol synthase
+106591920,-2.79,2.2E-17,LOC106591920,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase-like"
+106598856,-2.22,9.1E-16,LOC106598856,retinol dehydrogenase 12-like
+100194920,-1.69,9.1E-16,acat2,acetyl-CoA acetyltransferase 2
+106570829,-4.51,1.1E-15,hmgcr,3-hydroxy-3-methylglutaryl-CoA reductase
+100195087,-2.15,1.2E-13,sc5d,sterol-C5-desaturase
+106579093,-4.42,1.2E-13,LOC106579093,squalene monooxygenase-like
+106603135,-1.25,8.7E-12,tm7sf2,transmembrane 7 superfamily member 2
+106590825,-2.78,1.4E-11,msmo1,methylsterol monooxygenase 1
+106601335,-2.98,1.9E-11,LOC106601335,solute carrier family 25 member 38-B-like
+106570960,-2.26,2.9E-10,psat1,phosphoserine aminotransferase 1
+100196604,0.8,2.5E-09,apof,apolipoprotein F
+106580147,-2.5,3.6E-09,kiaa0825,KIAA0825 ortholog
+106580424,2.16,1.2E-08,LOC106580424,B-cell linker protein-like
+106588568,-3.32,1.8E-08,LOC106588568,lanosterol 14-alpha demethylase
+106573007,-2.62,2.6E-08,LOC106573007,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase-like"
+100502557,-1.41,7.0E-08,srebf2,sterol regulatory element binding transcription factor 2
+106598169,3.58,9.8E-08,atp1b3,ATPase Na+/K+ transporting subunit beta 3
+106587139,-1.48,9.8E-08,LOC106587139,7-dehydrocholesterol reductase-like
+106604248,-2.75,2.1E-07,LOC106604248,"sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating-like"
+100136409,-1.13,4.3E-07,LOC100136409,acyl-CoA-binding protein
+106580092,1.01,6.9E-07,LOC106580092,BDNF/NT-3 growth factors receptor-like
+106591002,-1.44,1.1E-06,LOC106591002,probable ergosterol biosynthetic protein 28
+106577690,1.36,1.2E-06,LOC106577690,UDP-glucuronosyltransferase 1-2-like
+106588577,-2.83,1.3E-06,LOC106588577,type-4 ice-structuring protein-like
+100270809,0.51,1.3E-06,nr1h3,nuclear receptor subfamily 1 group H member 3
+106586249,-0.82,1.5E-06,LOC106586249,"alkyldihydroxyacetonephosphate synthase, peroxisomal-like"
+106570209,-3.51,1.8E-06,LOC106570209,lanosterol 14-alpha demethylase-like
+106605740,-0.6,2.4E-06,LOC106605740,pyruvate kinase PKM-like
+106607132,-1.8,2.4E-06,LOC106607132,sterol regulatory element-binding protein 2-like
+106590962,6.31,2.9E-06,LOC106590962,ladderlectin-like
+106568727,-2.66,4.6E-06,LOC106568727,3-keto-steroid reductase-like
+106562054,-1.08,4.6E-06,dhcr7,7-dehydrocholesterol reductase
+100136383,-1.37,6.3E-06,fadsd5,delta-5 fatty acyl desaturase
+106605546,-5.15,7.6E-06,LOC106605546,squalene monooxygenase-like
+106569008,6.17,1.6E-05,LOC106569008,cholesterol 7-alpha-monooxygenase-like
+106607120,-1.83,1.7E-05,LOC106607120,sterol regulatory element-binding protein 2-like
+106574406,0.6,3.0E-05,LOC106574406,ribose-phosphate pyrophosphokinase 2
+106593398,-0.81,3.0E-05,LOC106593398,uncharacterized LOC106593398
+106606413,0.87,3.5E-05,LOC106606413,lysoplasmalogenase-like
+106578532,-2.65,5.2E-05,idi1,isopentenyl-diphosphate delta isomerase 1
+106563031,1.04,5.3E-05,LOC106563031,collagen type IV alpha-3-binding protein-like
+106567816,0.57,5.9E-05,LOC106567816,collagen type IV alpha-3-binding protein-like
+106605167,0.67,5.9E-05,LOC106605167,pleckstrin homology-like domain family B member 3
+106611550,0.58,6.0E-05,LOC106611550,transmembrane anterior posterior transformation protein 1 homolog
+106585168,-1.05,6.0E-05,npc1l1,NPC1 like intracellular cholesterol transporter 1
+106589883,0.6,6.0E-05,LOC106589883,vinculin-like
+100380689,-3.26,6.3E-05,fdft1,farnesyl-diphosphate farnesyltransferase 1
+106607496,1.13,1.1E-04,LOC106607496,nuclear receptor subfamily 1 group D member 1-like
+106612479,-0.65,1.2E-04,nlrx1,NLR family member X1
+106574392,4.8,1.3E-04,LOC106574392,ladderlectin-like
+106580756,1.57,1.3E-04,LOC106580756,cytochrome P450 2M1
+106567759,1.19,1.3E-04,LOC106567759,uncharacterized LOC106567759
+106605529,1.94,1.6E-04,LOC106605529,Krueppel-like factor 10
+106580033,-2.51,1.9E-04,LOC106580033,"glycine dehydrogenase (decarboxylating), mitochondrial-like"
+106576770,-1.16,2.1E-04,LOC106576770,placenta-specific protein 9-like
+106600494,0.52,3.3E-04,LOC106600494,methionine aminopeptidase 1
+106575496,3.01,3.8E-04,LOC106575496,ladderlectin-like
+106585666,-1.91,4.1E-04,LOC106585666,mevalonate kinase-like
+106568976,-0.56,4.3E-04,LOC106568976,gelsolin-like
+106602919,1.1,4.4E-04,LOC106602919,putative monooxygenase p33MONOX
+106573223,-0.77,4.4E-04,LOC106573223,NADH-cytochrome b5 reductase 2-like
+100195467,-2.53,4.4E-04,erg19,Diphosphomevalonate decarboxylase
+106605924,-2.13,4.4E-04,LOC106605924,farnesyl pyrophosphate synthase-like
+106578488,0.51,4.4E-04,LOC106578488,tartrate-resistant acid phosphatase type 5-like
+100196500,-1.17,5.6E-04,phs1,PHS1 protein
+106609289,0.5,5.6E-04,LOC106609289,plexin-C1-like
+100196280,0.53,5.9E-04,vamp5,vesicle-associated membrane protein 5
+106565729,0.91,6.6E-04,LOC106565729,neural cell adhesion molecule L1-like protein
+106587421,0.53,6.7E-04,LOC106587421,muscarinic acetylcholine receptor M5-like
+106611047,1.35,7.3E-04,tgfb3,transforming growth factor beta 3
+106561046,0.89,7.4E-04,LOC106561046,dual specificity protein phosphatase 8-like
+106585394,-1.01,7.5E-04,LOC106585394,"glycine dehydrogenase (decarboxylating), mitochondrial-like"
+106589294,1.11,7.9E-04,LOC106589294,unconventional myosin-Id-like
+106585060,1.89,8.3E-04,LOC106585060,B-cell linker protein-like
+100380852,-1.41,8.4E-04,LOC100380852,ectonucleotide pyrophosphatase/phosphodiesterase family member 1
+106581529,-0.41,9.4E-04,tmem97,transmembrane protein 97
+106591125,1.05,1.0E-03,LOC106591125,serine/threonine-protein kinase Sgk1-like
+106564571,-2.0,1.0E-03,LOC106564571,"glutaryl-CoA dehydrogenase, mitochondrial-like"
+106562714,-0.75,1.1E-03,LOC106562714,"tricarboxylate transport protein, mitochondrial-like"
+106577506,1.24,1.1E-03,LOC106577506,apolipoprotein Eb-like
+106589772,0.68,1.2E-03,LOC106589772,stromal cell-derived factor 1-like
+106585105,0.96,1.3E-03,LOC106585105,max dimerization protein 1-like
+100196806,-2.84,1.3E-03,g12,Gastrulation-specific protein G12
+106576187,1.48,1.4E-03,LOC106576187,coiled-coil domain-containing protein 3-like
+106577131,2.0,1.5E-03,LOC106577131,probable E3 ubiquitin-protein ligase HECTD2
+106587488,0.48,1.5E-03,LOC106587488,fibrinogen-like protein 1-like protein
+106604175,1.22,1.5E-03,LOC106604175,solute carrier family 25 member 48-like
+106573277,0.78,1.5E-03,LOC106573277,fibroblast growth factor 23-like
+106585920,-2.05,1.6E-03,aacs,acetoacetyl-CoA synthetase
+106569522,0.39,1.7E-03,LOC106569522,cactin-like
+106573734,1.91,1.8E-03,LOC106573734,potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2-like
+106579906,-0.51,1.8E-03,LOC106579906,transmembrane protein 132C-like
+106604724,0.35,1.8E-03,LOC106604724,ligand of Numb protein X 2-like
+106581453,1.49,1.8E-03,LOC106581453,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1-like"
+106573659,-0.37,1.8E-03,LOC106573659,serum paraoxonase/arylesterase 2-like
+106561932,0.41,1.8E-03,LOC106561932,oxysterols receptor LXR-alpha-like
+106577691,1.05,1.8E-03,LOC106577691,probable G-protein coupled receptor 132
+106609351,1.2,1.9E-03,LOC106609351,uncharacterized LOC106609351
+100192341,-1.4,2.0E-03,elovl2,ELOVL fatty acid elongase 2
+106571543,-2.79,2.0E-03,LOC106571543,"hydroxymethylglutaryl-CoA synthase, cytoplasmic-like"
+106612199,-1.44,2.1E-03,LOC106612199,"sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating-like"
+100136441,-1.4,2.1E-03,fadsd6,delta-6 fatty acyl desaturase
+106578958,-0.68,2.2E-03,LOC106578958,lysosomal acid lipase/cholesteryl ester hydrolase-like
+106612829,-1.21,2.6E-03,LOC106612829,phosphoserine phosphatase-like
+106568407,0.52,2.6E-03,plpp1,phospholipid phosphatase 1
+106575207,1.1,2.7E-03,LOC106575207,ankyrin repeat domain-containing protein SOWAHC-like
+106590473,0.76,3.3E-03,LOC106590473,GRAM domain-containing protein 1C-like
+106604833,0.59,3.4E-03,LOC106604833,A disintegrin and metalloproteinase with thrombospondin motifs 2-like
+106563272,1.49,3.5E-03,LOC106563272,regulator of G-protein signaling 3-like
+106586586,-1.92,4.0E-03,LOC106586586,acyl-CoA-binding protein-like
+106568307,2.12,4.6E-03,LOC106568307,acyl-coenzyme A thioesterase 12-like
+106584368,1.03,4.9E-03,LOC106584368,MAP kinase-interacting serine/threonine-protein kinase 2-like
+106560849,1.04,5.1E-03,LOC106560849,cholesteryl ester transfer protein-like
+106570447,-1.88,5.3E-03,LOC106570447,gamma-aminobutyric acid type B receptor subunit 2-like
+106612015,-1.53,5.5E-03,LOC106612015,long-chain-fatty-acid--CoA ligase 1-like
+106609361,1.16,5.5E-03,LOC106609361,ADM2-like
+106594083,1.0,5.6E-03,LOC106594083,serine/threonine-protein kinase Sgk1
+106605338,-0.44,5.6E-03,LOC106605338,sterol regulatory element-binding protein cleavage-activating protein-like
+106563416,0.28,5.7E-03,LOC106563416,suppressor of tumorigenicity 14 protein-like
+106582110,0.76,5.8E-03,LOC106582110,nuclear receptor subfamily 1 group D member 2-like
+106569909,-0.54,5.9E-03,LOC106569909,saccharopine dehydrogenase-like oxidoreductase
+106601015,-1.25,5.9E-03,LOC106601015,ATP-citrate synthase-like
+106609531,-1.09,6.1E-03,LOC106609531,anoctamin-6-like
+106601178,0.7,6.4E-03,LOC106601178,NF-kappa-B inhibitor alpha-like
+106588594,-0.68,6.7E-03,LOC106588594,uncharacterized aarF domain-containing protein kinase 5-like
+106607422,-0.76,6.9E-03,LOC106607422,uncharacterized LOC106607422
+106599488,-0.45,7.4E-03,LOC106599488,"presequence protease, mitochondrial-like"
+106601563,0.77,7.4E-03,LOC106601563,3 beta-hydroxysteroid dehydrogenase type 7-like
+106562197,0.79,7.6E-03,tcf12,transcription factor 12
+106581859,-0.94,8.3E-03,LOC106581859,integrin beta-2-like
+106608992,1.09,8.5E-03,LOC106608992,purine nucleoside phosphorylase-like
+106584213,-0.78,8.5E-03,dhcr24,24-dehydrocholesterol reductase
+106612131,-1.52,8.6E-03,cystm1,cysteine rich transmembrane module containing 1
+106564782,1.24,8.7E-03,LOC106564782,EGF-containing fibulin-like extracellular matrix protein 1
+106567153,0.55,9.2E-03,LOC106567153,uncharacterized LOC106567153
+106587200,3.11,9.3E-03,LOC106587200,polypeptide N-acetylgalactosaminyltransferase 18
+106584367,0.94,9.3E-03,LOC106584367,uncharacterized LOC106584367
+106581476,1.52,9.3E-03,LOC106581476,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1-like"
+106576153,-0.43,1.0E-02,LOC106576153,sorting and assembly machinery component 50 homolog B
+106613150,1.85,1.0E-02,LOC106613150,von Willebrand factor A domain-containing protein 5A-like
+106565851,0.48,1.0E-02,LOC106565851,nicotinamide phosphoribosyltransferase-like
+106576800,-0.86,1.1E-02,LOC106576800,cdc42 effector protein 3-like
+106588784,0.62,1.1E-02,snrk,SNF related kinase
+100136518,1.8,1.1E-02,igfbp-1b1,IGF binding protein 1
+100196702,-0.55,1.1E-02,g6pd,glucose-6-phosphate dehydrogenase
+106562275,-1.38,1.1E-02,LOC106562275,diphosphomevalonate decarboxylase-like
+106608133,2.5,1.1E-02,LOC106608133,type III iodothyronine deiodinase-like
+106570212,1.59,1.1E-02,LOC106570212,"alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1-like"
+106578605,-2.01,1.2E-02,LOC106578605,insulin-induced gene 1 protein-like
+106568086,-1.04,1.2E-02,acaca,acetyl-CoA carboxylase alpha
+106572522,-0.66,1.2E-02,LOC106572522,inactive dipeptidyl peptidase 10-like
+106600948,1.01,1.2E-02,LOC106600948,synaptotagmin-2-like
+106572662,1.57,1.3E-02,LOC106572662,low-density lipoprotein receptor-related protein 1-like
+106574320,0.57,1.3E-02,LOC106574320,ephrin-A1-like
+106584490,1.16,1.3E-02,LOC106584490,cyclin-dependent kinase inhibitor 1B-like
+106572649,1.66,1.3E-02,LOC106572649,low-density lipoprotein receptor-related protein 1-like
+106571482,0.68,1.3E-02,LOC106571482,vascular endothelial growth factor A-A-like
+106569746,-0.44,1.3E-02,LOC106569746,uncharacterized LOC106569746
+100195626,0.77,1.3E-02,zfn2b,AN1-type zinc finger protein 2B
+106587564,1.15,1.3E-02,LOC106587564,carbohydrate sulfotransferase 8-like
+106578435,-0.43,1.3E-02,LOC106578435,E3 ubiquitin-protein ligase TRIM58-like
+106561680,0.47,1.3E-02,LOC106561680,ETS domain-containing protein Elk-3-like
+106608647,1.01,1.3E-02,plin2,perilipin 2
+106587226,-2.41,1.3E-02,LOC106587226,uncharacterized LOC106587226
+106587585,-0.5,1.4E-02,LOC106587585,"39S ribosomal protein L4, mitochondrial-like"
+106568548,-1.86,1.4E-02,LOC106568548,metalloprotease TIKI1-like
+106570496,-0.56,1.5E-02,LOC106570496,D-dopachrome decarboxylase-A-like
+106585134,0.82,1.5E-02,LOC106585134,serine protease HTRA1-like
+106571044,0.73,1.5E-02,LOC106571044,kinesin-like protein KIF13B
+100195433,-0.57,1.6E-02,mep50,Methylosome protein 50
+106567948,-3.48,1.7E-02,LOC106567948,diacylglycerol O-acyltransferase 2-like
+106592668,-1.01,1.7E-02,LOC106592668,mid1-interacting protein 1-B-like
+106573352,0.5,1.7E-02,LOC106573352,inactive serine protease PAMR1-like
+106584632,-1.19,1.7E-02,LOC106584632,nucleobindin-2-like
+106589722,0.54,1.7E-02,epas1,endothelial PAS domain protein 1
+106589038,-1.42,1.7E-02,LOC106589038,unconventional myosin-Ig-like
+106599159,-0.41,1.7E-02,LOC106599159,epidermal retinol dehydrogenase 2-like
+106565392,0.97,1.8E-02,LOC106565392,GTP-binding protein REM 1-like
+106608859,-0.4,1.9E-02,LOC106608859,thioredoxin-like
+100196814,-0.52,1.9E-02,penk,proenkephalin
+100195559,-0.89,2.0E-02,pgd,phosphogluconate dehydrogenase
+106605425,-6.11,2.0E-02,LOC106605425,metalloreductase STEAP4-like
+106568366,-0.74,2.0E-02,LOC106568366,uncharacterized LOC106568366
+106585313,0.46,2.0E-02,LOC106585313,egl nine homolog 1-like
+106561328,0.37,2.0E-02,LOC106561328,ubiquitin-conjugating enzyme E2 H-like
+106577631,-0.53,2.1E-02,slc16a13,solute carrier family 16 member 13
+106607375,1.04,2.1E-02,LOC106607375,hemoglobin subunit alpha-4
+106606701,-0.48,2.1E-02,LOC106606701,methionine-R-sulfoxide reductase B1-A-like
+106585444,1.38,2.2E-02,LOC106585444,nuclear receptor subfamily 6 group A member 1-A-like
+106573260,1.22,2.2E-02,LOC106573260,protein LSM14 homolog A-like
+106585979,-0.74,2.2E-02,LOC106585979,terminal uridylyltransferase 7-like
+106585061,-2.24,2.2E-02,slc25a1,solute carrier family 25 member 1
+106568654,-0.56,2.3E-02,sft2d3,SFT2 domain containing 3
+100380846,-0.4,2.4E-02,s22ai,Solute carrier family 22 member 18
+106603271,-1.27,2.4E-02,LOC106603271,acetyl-CoA carboxylase
+106607371,1.6,2.6E-02,LOC106607371,hemoglobin subunit beta-1-like
+106586648,-0.41,2.6E-02,LOC106586648,leucine-rich repeat-containing protein 58-like
+106575466,-0.57,2.6E-02,LOC106575466,TRAF2 and NCK-interacting protein kinase-like
+106603145,-0.66,2.7E-02,LOC106603145,"peroxiredoxin-5, mitochondrial-like"
+106606950,0.52,2.7E-02,LOC106606950,hepatic leukemia factor-like
+106590829,1.04,2.7E-02,LOC106590829,complement factor H-like
+106574350,5.28,2.7E-02,LOC106574350,ladderlectin-like
+106606414,0.52,2.8E-02,LOC106606414,putative L-aspartate dehydrogenase
+106578586,0.49,2.9E-02,LOC106578586,cytochrome b5-like
+106584751,-2.3,2.9E-02,LOC106584751,uncharacterized LOC106584751
+106600427,-0.66,3.0E-02,LOC106600427,Niemann-Pick C1 protein-like
+106572112,0.6,3.1E-02,LOC106572112,bcl-2-like protein 1
+106608633,-4.17,3.1E-02,LOC106608633,serum amyloid P-component-like
+106568021,0.47,3.1E-02,LOC106568021,angiomotin-like
+106570498,-0.43,3.1E-02,LOC106570498,tubulointerstitial nephritis antigen-like
+106568345,1.04,3.1E-02,LOC106568345,arrestin domain-containing protein 3-like
+100196010,3.06,3.1E-02,goga7,Golgin subfamily A member 7
+106587346,0.53,3.2E-02,LOC106587346,transcription factor 12-like
+106603826,-0.94,3.2E-02,LOC106603826,solute carrier family 22 member 13-like
+106589272,0.48,3.4E-02,LOC106589272,nuclear distribution protein nudE-like 1-B
+106566620,1.25,3.5E-02,LOC106566620,uncharacterized LOC106566620
+106586335,-0.8,3.6E-02,LOC106586335,isocitrate dehydrogenase [NADP] cytoplasmic-like
+106587515,-3.11,3.6E-02,LOC106587515,mitochondrial glutamate carrier 1-like
+106572074,-0.36,3.6E-02,gss,glutathione synthetase
+106577121,0.96,3.6E-02,cfap36,cilia and flagella associated protein 36
+106591639,0.49,3.6E-02,kl,klotho
+106584060,1.76,3.6E-02,LOC106584060,podocan-like
+106569697,1.14,3.6E-02,LOC106569697,poly(U)-specific endoribonuclease-C-like
+100194617,-0.66,3.6E-02,tpi1b,triosephosphate isomerase 1b
+106601460,0.92,3.6E-02,LOC106601460,serine/threonine-protein kinase SBK1-like
+106612068,0.55,3.7E-02,LOC106612068,monocarboxylate transporter 8-like
+106567151,0.5,3.7E-02,LOC106567151,CDP-diacylglycerol--serine O-phosphatidyltransferase-like
+106561586,-0.97,3.8E-02,cercam,cerebral endothelial cell adhesion molecule
+100380822,-0.34,3.8E-02,copt1,High affinity copper uptake protein 1
+106609683,1.87,4.0E-02,LOC106609683,26S protease regulatory subunit 7
+106578422,0.99,4.1E-02,LOC106578422,catenin delta-2-like
+106560507,1.0,4.1E-02,LOC106560507,uncharacterized LOC106560507
+106574435,0.47,4.1E-02,LOC106574435,nck-associated protein 5-like
+106579409,0.31,4.1E-02,LOC106579409,pituitary tumor-transforming gene 1 protein-interacting protein-like
+100195246,0.34,4.2E-02,pkha1,Pleckstrin homology domain-containing family A member 1
+106612727,0.53,4.2E-02,LOC106612727,transmembrane protease serine 4-like
+106580025,0.74,4.4E-02,LOC106580025,probable peptidyl-tRNA hydrolase
+106603553,0.67,4.4E-02,LOC106603553,SAM domain-containing protein SAMSN-1-like
+106607642,-1.1,4.5E-02,LOC106607642,creatine kinase B-type-like
+106589531,0.58,4.6E-02,LOC106589531,thyrotroph embryonic factor-like
+106580105,-0.66,4.7E-02,mvk,mevalonate kinase
+106577513,0.77,4.9E-02,LOC106577513,endosialin-like
+106600211,-1.43,4.9E-02,LOC106600211,uncharacterized LOC106600211
+106562353,1.85,4.9E-02,LOC106562353,uncharacterized LOC106562353

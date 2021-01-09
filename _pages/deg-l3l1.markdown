@@ -6,32 +6,15 @@ sidebar:
   nav: "docs"
 title:  "Differentially expressed genes - L3 vs. L1"
 categories: gene-expression deg l3l1
+datatable:
+  id: degl3l1
+  nrow: 245
+  nowrap: "Adj p-val"
 ---
 Brief summary of L3:L1 DEGs.
 
-## List of DEGs between L1 and L3 diets
+## List of the DEGs between L1 and L3 diets
 
-Need to use a JS table here.
-
-<table id="table23" class="display">
-    <thead>
-        <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Row 1 Data 1</td>
-            <td>Row 1 Data 2</td>
-        </tr>
-        <tr>
-            <td>Row 2 Data 1</td>
-            <td>Row 2 Data 2</td>
-        </tr>
-    </tbody>
-</table>
-
-<script>
-const dataTable = new DataTable("#table23");
-</script>
+{% include datatable.html id=page.datatable.id
+  data=site.data.degl3l1 nrow=page.datatable.nrow
+  nowrap=page.datatable.nowrap %}
