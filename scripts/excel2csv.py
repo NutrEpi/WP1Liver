@@ -17,6 +17,14 @@ def filter_deg(df):
             .rename(columns={'pval':'Adj p-val'}))
 
 
+def filter_dmc(df):
+    return (df.assign(qval=lambda x: x['Q-value'].apply(lambda x: '%.1E' % x))
+            .loc[lambda x: (x['Q-value'] < 0.01) & (x['abs(Mdiff)'] >= 20)]
+            .filter(['Chromosome', 'Start', 'Region', 'Mdiff', 'qval',
+                     'Gene ID', 'Gene symbol', 'Gene name'])
+            .rename(columns={'qval':'Q-value', 'Start':'Pos'}))
+
+
 def write_csv(pd, ofile_name, data_dir='_data'):
     pd.to_csv(
         os.path.join(os.path.dirname(__file__), "..", data_dir, ofile_name),
@@ -34,13 +42,22 @@ def generate_csv(excel_file, sheet_name, filter_func, ofile_name):
 excel_file = 'Dataset_01_DEG.xlsx'
 sheet_name = 'L2L1'
 ofile_name = 'degl2l1.csv'
-
-generate_csv(excel_file, sheet_name, filter_deg, ofile_name)
-
+#generate_csv(excel_file, sheet_name, filter_deg, ofile_name)
 
 # DEG L2:L1
 excel_file = 'Dataset_01_DEG.xlsx'
 sheet_name = 'L3L1'
 ofile_name = 'degl3l1.csv'
+#generate_csv(excel_file, sheet_name, filter_deg, ofile_name)
 
-generate_csv(excel_file, sheet_name, filter_deg, ofile_name)
+# DMC L2:L1
+excel_file = 'Dataset_03_CpG_L2L1.xlsx'
+sheet_name = 'L2L1'
+ofile_name = 'dmcl2l1.csv'
+#generate_csv(excel_file, sheet_name, filter_dmc, ofile_name)
+
+# DMC L3:L1
+excel_file = 'Dataset_04_CpG_L3L1.xlsx'
+sheet_name = 'L3L1'
+ofile_name = 'dmcl3l1.csv'
+generate_csv(excel_file, sheet_name, filter_dmc, ofile_name)
