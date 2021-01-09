@@ -26,7 +26,13 @@ def filter_dmc(df):
             .rename(columns={'qval':'Q-value', 'Start':'Pos'}))
 
 
-# Gene ID	Total	GB	Exon	Intron	P	P250	P1K	P6K	Flanks	Gene symbol	Gene name	RefSeq IDs
+def filter_dmg(df):
+    return (df.filter(['Gene ID', 'Total', 'GB', 'Exon', 'Intron',
+                       'P', 'P250', 'P1K', 'P6K', 'Flanks',
+                       'Gene symbol', 'Gene name'])
+            .sort_values(by=['Total', 'GB', 'P', 'Exon', 'Intron', 'P250', 'P1K', 'P6K', 'Flanks'],
+                         ascending=False, ignore_index=True))
+
 
 def write_csv(pd, ofile_name, data_dir='_data'):
     pd.to_csv(
@@ -57,10 +63,23 @@ ofile_name = 'degl3l1.csv'
 excel_file = 'Dataset_03_CpG_L2L1.xlsx'
 sheet_name = 'L2L1'
 ofile_name = 'dmcl2l1.csv'
-generate_csv(excel_file, sheet_name, filter_dmc, ofile_name)
+#generate_csv(excel_file, sheet_name, filter_dmc, ofile_name)
 
 # DMC L3:L1
 excel_file = 'Dataset_04_CpG_L3L1.xlsx'
 sheet_name = 'L3L1'
 ofile_name = 'dmcl3l1.csv'
-generate_csv(excel_file, sheet_name, filter_dmc, ofile_name)
+#generate_csv(excel_file, sheet_name, filter_dmc, ofile_name)
+
+# DMG L2:L1
+excel_file = 'Dataset_05_DMG.xlsx'
+sheet_name = 'L2L1'
+ofile_name = 'dmgl2l1.csv'
+generate_csv(excel_file, sheet_name, filter_dmg, ofile_name)
+
+# DMG L3:L1
+excel_file = 'Dataset_05_DMG.xlsx'
+sheet_name = 'L3L1'
+ofile_name = 'dmgl3l1.csv'
+generate_csv(excel_file, sheet_name, filter_dmg, ofile_name)
+

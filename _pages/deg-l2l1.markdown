@@ -4,7 +4,6 @@ layout: single
 classes: wide
 sidebar:
   nav: "docs"
-share: true
 title:  "Differentially expressed genes - L2 vs. L1"
 categories: gene-expression deg l2l1
 datatable:
