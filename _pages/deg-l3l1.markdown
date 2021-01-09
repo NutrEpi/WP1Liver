@@ -9,29 +9,38 @@ categories: gene-expression deg l3l1
 ---
 Brief summary of L3:L1 DEGs.
 
-## List of DEGs between L1 and L3 diets
+## List of the DEGs between L1 and L3 diets
 
-Need to use a JS table here.
-
-<table id="table23" class="display">
-    <thead>
-        <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-        </tr>
-    </thead>
+<table id="degl3l1" class="display">
+  {% for row in site.data.degl3l1 %}
+    {% if forloop.first %}
+    <thead> <tr>
+      {% for pair in row %}
+        {% if pair[0] == "Adj p-val" %}
+          <th nowrap="nowrap">{{ pair[0] }}</th>
+        {% else %}
+          <th>{{ pair[0] }}</th>
+        {% endif %}
+      {% endfor %}
+    </tr> </thead>
     <tbody>
-        <tr>
-            <td>Row 1 Data 1</td>
-            <td>Row 1 Data 2</td>
-        </tr>
-        <tr>
-            <td>Row 2 Data 1</td>
-            <td>Row 2 Data 2</td>
-        </tr>
-    </tbody>
+    {% endif %}
+
+    <tr>
+    {% for pair in row %}
+      <td>{{ pair[1] }}</td>
+    {% endfor %}
+    </tr>
+  {% endfor %}
+  </tbody>
 </table>
 
 <script>
-const dataTable = new DataTable("#table23");
+const dataTable = new DataTable("#degl3l1", {
+    perPage: 245,
+    layout: {
+      top: "{search}",
+      bottom: "{info}"
+    },
+});
 </script>

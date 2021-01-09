@@ -1,0 +1,75 @@
+Gene ID,LFC,Adj p-val,Gene symbol,Gene name
+106601178,0.94,6.2E-06,LOC106601178,NF-kappa-B inhibitor alpha-like
+106566064,-2.6,4.6E-05,LOC106566064,guanine nucleotide-binding protein G(i) subunit alpha-2
+100195198,0.52,2.5E-04,vps37a,"VPS37A, ESCRT-I subunit"
+106602919,1.23,2.5E-04,LOC106602919,putative monooxygenase p33MONOX
+106605529,2.07,2.5E-04,LOC106605529,Krueppel-like factor 10
+106570829,-2.6,2.9E-04,hmgcr,3-hydroxy-3-methylglutaryl-CoA reductase
+100136518,1.78,4.5E-04,igfbp-1b1,IGF binding protein 1
+106590962,7.0,4.5E-04,LOC106590962,ladderlectin-like
+106607496,0.99,1.7E-03,LOC106607496,nuclear receptor subfamily 1 group D member 1-like
+106577245,-0.87,2.1E-03,LOC106577245,S-adenosylmethionine synthase isoform type-1
+106564571,-1.33,2.1E-03,LOC106564571,"glutaryl-CoA dehydrogenase, mitochondrial-like"
+106599445,0.56,2.3E-03,LOC106599445,"high affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A-like"
+106611175,0.77,2.3E-03,LOC106611175,NF-kappa-B inhibitor alpha-like
+101448021,-0.72,2.3E-03,gbp,GSK-3-binding protein
+106577132,0.95,2.3E-03,LOC106577132,protein phosphatase 1 regulatory subunit 3C-B-like
+106607162,0.83,2.3E-03,LOC106607162,thyrotroph embryonic factor-like
+106581851,-1.55,3.7E-03,lss,lanosterol synthase
+106591920,-1.14,3.7E-03,LOC106591920,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase-like"
+106570088,0.82,4.5E-03,ciart,circadian associated repressor of transcription
+106584416,-0.93,5.0E-03,LOC106584416,SHC-transforming protein 2-like
+106584490,1.21,5.0E-03,LOC106584490,cyclin-dependent kinase inhibitor 1B-like
+106605774,0.96,5.4E-03,dbp,D-box binding PAR bZIP transcription factor
+106581529,-0.33,5.6E-03,tmem97,transmembrane protein 97
+106608520,0.57,5.6E-03,LOC106608520,period circadian protein homolog 1-like
+106612954,0.98,5.6E-03,LOC106612954,serine/threonine-protein kinase ULK2-like
+106601031,1.45,5.6E-03,LOC106601031,"coenzyme Q-binding protein COQ10 homolog, mitochondrial-like"
+106571979,-3.04,5.6E-03,LOC106571979,uncharacterized LOC106571979
+106568718,0.95,7.9E-03,LOC106568718,phosphoglucomutase-1-like
+106587488,0.45,7.9E-03,LOC106587488,fibrinogen-like protein 1-like protein
+106585598,-0.61,8.0E-03,LOC106585598,anthrax toxin receptor 1-like
+100194614,1.0,8.2E-03,ppdpf,c20orf149 protein
+106582110,0.99,9.4E-03,LOC106582110,nuclear receptor subfamily 1 group D member 2-like
+106585060,2.33,9.4E-03,LOC106585060,B-cell linker protein-like
+106577395,1.51,9.4E-03,LOC106577395,DNA damage-inducible transcript 4 protein-like
+106587139,-0.7,9.8E-03,LOC106587139,7-dehydrocholesterol reductase-like
+106569523,0.43,1.0E-02,LOC106569523,ubiquitin-conjugating enzyme E2 R1-like
+106563389,0.85,1.2E-02,LOC106563389,period circadian protein homolog 1-like
+106585026,0.66,1.3E-02,LOC106585026,serine/threonine-protein kinase PLK2-like
+106604248,-1.62,1.3E-02,LOC106604248,"sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating-like"
+106608133,2.29,1.3E-02,LOC106608133,type III iodothyronine deiodinase-like
+106561658,-0.55,1.3E-02,LOC106561658,"probable 2-oxoglutarate dehydrogenase E1 component DHKTD1, mitochondrial"
+106561770,1.13,1.3E-02,LOC106561770,ras-GEF domain-containing family member 1B-B-like
+106601335,-1.76,1.4E-02,LOC106601335,solute carrier family 25 member 38-B-like
+106562333,-1.48,1.4E-02,LOC106562333,vitamin D 25-hydroxylase-like
+106578021,1.15,1.4E-02,LOC106578021,purine nucleoside phosphorylase-like
+106568762,1.95,1.4E-02,LOC106568762,B-cell lymphoma 6 protein-like
+100136924,0.78,1.4E-02,tap2b,transport-associated protein 2b
+106605924,-1.75,1.6E-02,LOC106605924,farnesyl pyrophosphate synthase-like
+106569872,0.58,1.7E-02,LOC106569872,semaphorin-4A-like
+106591002,-0.96,1.8E-02,LOC106591002,probable ergosterol biosynthetic protein 28
+106605810,0.89,1.8E-02,LOC106605810,hepatic leukemia factor-like
+106605546,-3.54,1.8E-02,LOC106605546,squalene monooxygenase-like
+106580424,1.56,1.9E-02,LOC106580424,B-cell linker protein-like
+106587180,-0.74,1.9E-02,LOC106587180,cytochrome b5-like
+106601029,0.56,2.0E-02,LOC106601029,serine/threonine-protein kinase 17A-like
+106577570,0.41,2.0E-02,LOC106577570,regulator of G-protein signaling 12-like
+106565446,-4.63,2.2E-02,LOC106565446,"25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial-like"
+106565076,1.35,2.3E-02,LOC106565076,"1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial-like"
+106568833,-1.64,2.3E-02,LOC106568833,frizzled-8-like
+106601460,1.44,2.4E-02,LOC106601460,serine/threonine-protein kinase SBK1-like
+106608090,0.78,2.4E-02,LOC106608090,CLOCK-interacting pacemaker-like
+106574392,3.79,2.4E-02,LOC106574392,ladderlectin-like
+106588186,0.95,2.5E-02,LOC106588186,uncharacterized LOC106588186
+106601241,1.16,2.6E-02,LOC106601241,thyrotroph embryonic factor-like
+106576759,-1.94,2.7E-02,LOC106576759,"alpha-2,8-sialyltransferase 8E-like"
+106588334,-0.43,3.2E-02,LOC106588334,acidic leucine-rich nuclear phosphoprotein 32 family member E
+106605773,0.89,3.4E-02,LOC106605773,hepatic leukemia factor-like
+106589320,0.95,3.4E-02,LOC106589320,growth factor receptor-bound protein 7-like
+106613963,0.91,3.5E-02,LOC106613963,transcription factor AP-1-like
+106565564,1.05,3.5E-02,LOC106565564,inositol hexakisphosphate kinase 2-like
+106579093,-1.84,3.7E-02,LOC106579093,squalene monooxygenase-like
+106592479,1.99,3.8E-02,LOC106592479,DNA damage-inducible transcript 4 protein-like
+106585808,0.78,3.9E-02,LOC106585808,metallo-beta-lactamase domain-containing protein 2-like
+106598858,-0.5,4.0E-02,LOC106598858,"succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial-like"

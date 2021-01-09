@@ -9,16 +9,18 @@ categories: gene-expression deg l2l1
 ---
 Brief summary of L2:L1 DEGs.
 
-## List of DEGs between L1 and L3 diets
-
-Need to use a JS table here.
+## List of the DEGs between L1 and L2 diets
 
 <table id="degl2l1" class="display">
-  {% for row in site.data.authors %}
+  {% for row in site.data.degl2l1 %}
     {% if forloop.first %}
     <thead> <tr>
       {% for pair in row %}
-        <th>{{ pair[0] }}</th>
+        {% if pair[0] == "Adj p-val" %}
+          <th nowrap="nowrap">{{ pair[0] }}</th>
+        {% else %}
+          <th>{{ pair[0] }}</th>
+        {% endif %}
       {% endfor %}
     </tr> </thead>
     <tbody>
@@ -34,5 +36,11 @@ Need to use a JS table here.
 </table>
 
 <script>
-const dataTable = new DataTable("#degl2l1");
+const dataTable = new DataTable("#degl2l1", {
+    perPage: 74,
+    layout: {
+      top: "{search}",
+      bottom: "{info}"
+    },
+});
 </script>

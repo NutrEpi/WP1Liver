@@ -4,7 +4,8 @@ _site
 .jekyll-metadata
 vendor
 
-data/
+# raw data
+scripts/excel/*
 
 # python
 __pycache__/
