@@ -20,10 +20,13 @@ def filter_deg(df):
 def filter_dmc(df):
     return (df.assign(qval=lambda x: x['Q-value'].apply(lambda x: '%.1E' % x))
             .loc[lambda x: (x['Q-value'] < 0.01) & (x['abs(Mdiff)'] >= 20)]
+            .sort_values(by='Q-value', ignore_index=True)
             .filter(['Chromosome', 'Start', 'Region', 'Mdiff', 'qval',
                      'Gene ID', 'Gene symbol', 'Gene name'])
             .rename(columns={'qval':'Q-value', 'Start':'Pos'}))
 
+
+# Gene ID	Total	GB	Exon	Intron	P	P250	P1K	P6K	Flanks	Gene symbol	Gene name	RefSeq IDs
 
 def write_csv(pd, ofile_name, data_dir='_data'):
     pd.to_csv(
@@ -54,7 +57,7 @@ ofile_name = 'degl3l1.csv'
 excel_file = 'Dataset_03_CpG_L2L1.xlsx'
 sheet_name = 'L2L1'
 ofile_name = 'dmcl2l1.csv'
-#generate_csv(excel_file, sheet_name, filter_dmc, ofile_name)
+generate_csv(excel_file, sheet_name, filter_dmc, ofile_name)
 
 # DMC L3:L1
 excel_file = 'Dataset_04_CpG_L3L1.xlsx'
