@@ -80,13 +80,13 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
-search_full_content      : false # true, false (default)
-search_provider          : lunr # lunr (default), algolia, google
+search_full_content      : true # true, false (default)
+search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : BN5B9TWW72 # YOUR_APPLICATION_ID
+  index_name             : NutrEpiWp1Liver # YOUR_INDEX_NAME
+  search_only_api_key    : 0c16cda670db94a6b8a73ca7cb8ec14d # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -182,6 +182,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - .travis.yml
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
@@ -248,6 +249,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+#  - jekyll-lunr-js-search
 #  - jekyll-data
 #  - jekyll-seo-tag
 
@@ -258,6 +260,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+#  - jekyll-lunr-js-search
 #  - jekyll-data
 
 
