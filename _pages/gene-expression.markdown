@@ -8,7 +8,7 @@ share: true
 title:  "Summary of gene expression analysis"
 categories: summary gene-expression deg
 ---
-Short description of gene expression analysis
+Short description of gene expression analysis.
 
 ## RNA-seq
 
@@ -16,8 +16,7 @@ RNA sequencing.
 
 ## Samples
 
-A table of RNA-seq samples here.
+A table of RNA-seq samples.
 
-## Deferentially expression analysis
-
-1. DEGs
+## Differential expression analysis
+- [DEG: differentially expressed gene]({{ site.baseurl }}/docs/differentially-expressed-gene/)

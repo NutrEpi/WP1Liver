@@ -33,6 +33,8 @@
 # Build settings
 #theme: minima
 theme: minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
@@ -40,18 +42,18 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "NutrEpi WP1 Liver"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Gene expression & DNA methylation" # site tagline that appears below site title in masthead
 name                     : "Takaya Saito"
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Gene expression and DNA methylation data of "Micronutrient supplementation affects
-#  transcriptional and epigenetic regulation of lipid metabolism
-#  in a dose-dependent manner".
-description: "DD"
-url                      : "https://nutrepi.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "nutrepi/wp1liver" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+description: >- # this means to ignore newlines until "baseurl:"
+  Gene expression and DNA methylation data of "Micronutrient supplementation affects
+  transcriptional and epigenetic regulation of lipid metabolism
+  in a dose-dependent manner".
+url                      : "https://nutrepi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/wp1liver"
+repository               : "NutrEpi/wp1liver" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,14 +79,14 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : BN5B9TWW72 # YOUR_APPLICATION_ID
+  index_name             : NutrEpiWp1Liver # YOUR_INDEX_NAME
+  search_only_api_key    : 0c16cda670db94a6b8a73ca7cb8ec14d # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -180,6 +182,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - .travis.yml
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
@@ -199,6 +202,8 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /scripts
+  - /data
 keep_files:
   - .git
   - .svn
@@ -231,33 +236,33 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+#permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+#timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+#  - jekyll-lunr-js-search
 #  - jekyll-data
-#  - jekyll-seo-tag
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+#  - jekyll-lunr-js-search
 #  - jekyll-data
-
+  - jekyll-seo-tag
 
 # Archives
 #  Type
@@ -295,17 +300,10 @@ compress_html:
   ignore:
     envs: development
 
+head_scripts:
+  #- /assets/js/vanilla-dataTables.js
+  - https://cdn.jsdelivr.net/npm/vanilla-datatables@latest/dist/vanilla-dataTables.min.js
+  - https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+#after_footer_scripts:
+#  - https://cdn.datatables.net/1.10.23/js/jquery.dataTables.js

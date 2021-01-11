@@ -3,4 +3,26 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# GitEye
 /.project
+
+# raw data
+scripts/excel/*
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv
+.python-version
+
+# pycharm
+.idea/
+
+## File-based project format:
+*.iws
+
+# Gemfile
+_darwin_20_Gemfile.lock
