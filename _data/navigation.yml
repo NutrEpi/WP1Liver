@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "About"
     url: /docs/about/
+  - title: Terms and Privacy Policy
+    url: /terms/
 
 docs:
   - title: Overview
