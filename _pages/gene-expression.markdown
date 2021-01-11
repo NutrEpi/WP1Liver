@@ -4,6 +4,7 @@ layout: single
 sidebar:
   nav: "docs"
 toc: true
+comments: true
 share: true
 title:  "Summary of gene expression analysis"
 categories: summary gene-expression deg

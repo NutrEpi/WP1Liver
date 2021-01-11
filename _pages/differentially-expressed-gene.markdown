@@ -3,6 +3,7 @@ permalink: /docs/differentially-expressed-gene/
 layout: single
 sidebar:
   nav: "docs"
+comments: true
 share: true
 title:  "What are DEGs?"
 categories: summary gene-expression deg
