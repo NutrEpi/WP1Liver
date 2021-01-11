@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "About"
-    url: /docs/about/
+  - title: "Home"
+    url: /
+  - title: "How to cite"
+    url: /how-to-site/
+  - title: "Contact"
+    url: /contact/
+  - title: Terms and Privacy Policy
+    url: /terms/
 
 docs:
   - title: Overview
