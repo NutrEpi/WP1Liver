@@ -4,6 +4,9 @@ _site
 .jekyll-metadata
 vendor
 
+# GitEye
+/.project
+
 # raw data
 scripts/excel/*
 
@@ -23,3 +26,6 @@ __pycache__/
 
 ## File-based project format:
 *.iws
+
+# Gemfile
+_darwin_20_Gemfile.lock

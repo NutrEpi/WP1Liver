@@ -291,6 +291,7 @@ DEPENDENCIES
   jekyll-algolia
   jekyll-feed (~> 0.12)
   jekyll-gist
+  jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
   minimal-mistakes-jekyll
