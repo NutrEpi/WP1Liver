@@ -4,6 +4,7 @@ layout: single
 sidebar:
   nav: "docs"
 toc: true
+comments: true
 share: true
 title:  "Project summary"
 categories: summary

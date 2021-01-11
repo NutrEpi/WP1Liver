@@ -3,6 +3,7 @@ permalink: /docs/downloads/
 layout: single
 sidebar:
   nav: "docs"
+comments: true
 share: true
 title:  "Downloads"
 categories: resources

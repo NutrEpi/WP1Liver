@@ -3,6 +3,7 @@ permalink: /
 layout: single
 sidebar:
   nav: "docs"
+comments: true
 share: true
 title:  "NutrEpi WP1Liver"
 ---
