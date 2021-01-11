@@ -20,3 +20,6 @@ __pycache__/
 
 ## File-based project format:
 *.iws
+
+# Gemfile
+_darwin_20_Gemfile.lock
