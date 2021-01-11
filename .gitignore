@@ -7,6 +7,9 @@ vendor
 # raw data
 scripts/excel/*
 
+# GitEye
+.project
+
 # python
 __pycache__/
 *.py[cod]
