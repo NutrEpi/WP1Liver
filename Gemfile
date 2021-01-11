@@ -11,8 +11,8 @@ source "https://rubygems.org"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.5"
 
-gem "jekyll", "~> 4.2.0"
-#gem "github-pages", group: :jekyll_plugins
+#gem "jekyll", "~> 4.2.0"
+gem "github-pages", group: :jekyll_plugins
 
 gem "minimal-mistakes-jekyll"
 
@@ -26,6 +26,7 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
 #  gem 'jekyll-paginate'
   gem 'jekyll-gist'
+  gem 'jekyll-algolia'
 #  gem 'jekyll-include-cache'
 #  gem 'jekyll-data'
 end
