@@ -8,3 +8,7 @@ title:  "What are DMGs?"
 categories: summary dna-methylation dmg
 ---
 Differentially methylated genes.
+
+## Result tables
+- [List of DMGs - L2 vs. L1]({{ site.baseurl }}/docs/dmg-l2l1/)
+- [List of DMGs - L3 vs. L1]({{ site.baseurl }}/docs/dmg-l3l1/)
