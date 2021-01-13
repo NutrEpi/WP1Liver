@@ -3,6 +3,7 @@ permalink: /docs/links/
 layout: single
 sidebar:
   nav: "docs"
+comments: true
 share: true  
 title:  "Relevant projects"
 categories: resources

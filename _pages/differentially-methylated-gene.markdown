@@ -3,6 +3,7 @@ permalink: /docs/differentially-methylated-gene/
 layout: single
 sidebar:
   nav: "docs"
+comments: true
 share: true  
 title:  "What are DMGs?"
 categories: summary dna-methylation dmg

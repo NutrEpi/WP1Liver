@@ -6,12 +6,13 @@ sidebar:
 title:  "Contact"
 ---
 
+
 Please use our contact form below if you have any questions, comments or feedback.
 
 <!-- modify this form HTML and place wherever you want your form -->
 
 <form
-  action="https://formspree.io/f/mwkwaroo"
+  action="https://formspree.io/f/mwkwayal"
   method="POST"
 >
   <input type="hidden" name="_subject" value="NutrEpiWP1Liver feedback">
@@ -32,4 +33,4 @@ Please use our contact form below if you have any questions, comments or feedbac
   <button type="submit">Send</button>
 </form>
 
-[Powered by Formspree](#https://formspree.io/){: .btn .btn--small .align-right}
+[Powered by Formspree](https://formspree.io/){: .btn .btn--small .align-right}

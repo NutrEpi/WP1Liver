@@ -3,6 +3,7 @@ permalink: /how-to-site/
 layout: single
 sidebar:
   nav: "docs"
+comments: true
 share: true
 title:  "How to cite"
 ---
@@ -21,7 +22,7 @@ DOI: <a href="https://doi.org/10.1080/15592294.2020.1859867">10.1080/15592294.20
 </p>
 
 
-[Download citation](#https://www.tandfonline.com/action/showCitFormats?doi=10.1080%2F15592294.2020.1859867){: .btn .btn--info}
+[Download citation](https://www.tandfonline.com/action/showCitFormats?doi=10.1080%2F15592294.2020.1859867){: .btn .btn--info}
 
 ## License of this website
 <p class="notice--info">

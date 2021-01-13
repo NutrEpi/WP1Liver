@@ -32,8 +32,8 @@
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -58,9 +58,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "nutrepiwp1liver" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,9 +83,9 @@ search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : BN5B9TWW72 # YOUR_APPLICATION_ID
+  application_id         : ITNPHJ0ES5 # YOUR_APPLICATION_ID
   index_name             : NutrEpiWp1Liver # YOUR_INDEX_NAME
-  search_only_api_key    : 0c16cda670db94a6b8a73ca7cb8ec14d # YOUR_SEARCH_ONLY_API_KEY
+  search_only_api_key    : 3903570464b8cf122ad46fcd2e63091b # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
@@ -142,7 +142,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/takayasaito"
+      url: "https://github.com/takayasaito/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/takayasaito"
+      url: "https://github.com/NutrEpi/wp1liver/"
 #    - label: "GitLab"
 #      icon: "fab fa-fw fa-gitlab"
       # url:
