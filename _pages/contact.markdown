@@ -6,7 +6,7 @@ sidebar:
 title:  "Contact"
 ---
 
-
+## Contact form
 Please use our contact form below if you have any questions, comments or feedback.
 
 <!-- modify this form HTML and place wherever you want your form -->
@@ -34,3 +34,7 @@ Please use our contact form below if you have any questions, comments or feedbac
 </form>
 
 [Powered by Formspree](https://formspree.io/){: .btn .btn--small .align-right}
+
+## Bug reports
+Please use GitHub issues if you find any technical issues with the site.
+<p><a href="https://github.com/NutrEpi/wp1liver/issues/" class="btn"><i class="fab fa-fw fa-github" aria-hidden="true"></i>GitHub issues</a></p>
