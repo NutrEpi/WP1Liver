@@ -5,7 +5,7 @@ sidebar:
   nav: "docs"
 comments: true
 share: true
-title:  "NutrEpi WP1Liver"
+title:  "NutrEpi WP1 Liver"
 ---
 
 <p>
