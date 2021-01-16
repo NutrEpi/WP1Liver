@@ -5,15 +5,13 @@ sidebar:
   nav: "docs"
 comments: true
 share: true  
-title:  "Relevant projects"
+title:  "Links of the relevant websites"
 categories: resources
 ---
-Brief summary of other related projects.
 
-## List of publication
+## NutrEpi
+[NutrEpiWeb](https://nutrepi.github.io)
+: A portal site of all NutrEpi work packages and projects
 
-1. Paper 1
-AAA
-
-2. Paper 2
-BBB
+[NutrEpi WP1 Gonad]()
+: A website of the project summary for NutrEpi WP1 (gonad)
