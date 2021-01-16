@@ -16,6 +16,7 @@ The development and maintenance of this website is based on Jekyll - simple, blo
 - [algolia](https://www.algolia.com/) (Site search)
 - [formspree](https://formspree.io/) (Contact form)
 - [Vanilla Back To Top](https://github.com/vfeskov/vanilla-back-to-top) (Back To Top JS button)
+- [Google Analytics](https://analytics.google.com/analytics/web/) (Website traffic report)
 
 ## Citation
 
@@ -24,8 +25,14 @@ The development and maintenance of this website is based on Jekyll - simple, blo
 Takaya Saito, Paul Whatmore, John F Taylor, Jorge M O Fernandes, Anne-Catrin Adam,
 Douglas R Tocher, Marit Espe and Kaja H Skjærven
 
-doi:
-[10.1080/15592294.2020.1859867](https://doi.org/10.1080/15592294.2020.1859867)
+doi: [10.1080/15592294.2020.1859867](https://doi.org/10.1080/15592294.2020.1859867)
+
+## Search engine indexing
+Our sitemap.xml is registered with search engines by using the following tools.
+
+- [Google Search Console](https://search.google.com/search-console/)
+- [Bing Webmaster Tools](https://www.bing.com/webmasters/)
+- [Yandex.Webmaster](https://webmaster.yandex.com)
 
 ## Licence
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <br /><br />
