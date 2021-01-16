@@ -48,6 +48,8 @@ docs:
 
   - title: Resources
     children:
+      - title: "NutrEpiWeb (portal site)"
+        url: /../
       - title: "Downloads"
         url: /docs/downloads/
       - title: "Relevant projects"
