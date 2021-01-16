@@ -18,7 +18,7 @@ Douglas R Tocher, Marit Espe and Kaja H Skjærven (2020)
 <br />
 <strong>Micronutrient supplementation affects transcriptional and epigenetic regulation of lipid metabolism in a dose-dependent manner</strong>, Epigenetics,
 <br />
-DOI: <a href="https://doi.org/10.1080/15592294.2020.1859867">10.1080/15592294.2020.1859867</a>
+DOI: <a href="https://doi.org/10.1080/15592294.2020.1859867">10.1080/15592294.2020.1859867</a>.
 </p>
 
 
