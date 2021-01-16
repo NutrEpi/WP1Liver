@@ -5,7 +5,7 @@ sidebar:
   nav: "docs"
 comments: true
 share: true  
-title:  "Links of the relevant websites"
+title:  "Links of relevant websites"
 categories: resources
 ---
 

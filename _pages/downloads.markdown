@@ -11,10 +11,12 @@ categories: resources
 
 ## Supplementary data
 
-> Supplementary methods, figures and tables
+- Supplementary methods, figures and tables
 <iframe src="https://widgets.figshare.com/articles/13377005/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
-> Excel files that contain the lists of DEGs, DMCs and DMGs
+<br />
+
+- Excel files for DEGs, DMCs and DMGs
 <iframe src="https://widgets.figshare.com/articles/12481826/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
 ## Raw sequence data
