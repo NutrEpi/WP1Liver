@@ -11,8 +11,10 @@ title:  "Project summary"
 categories: summary
 ---
 
+Project summary of NutrEpi WP1 (Liver).
+
 ## Background
-The primary purpose of this study is to elucidate the effect of micronutrient (vitamins and minerals) on metabolic pathways from a genetic and epigenetic point of view. Specifically, our aim is to analyse and understand micronutrient influences in Atlantic salmon through [a whole life cycle feeding trial](https://doi.org/10.1016/j.aquaculture.2020.735551) (over 54 weeks for salmon) conducted under the EU funded [ARRAINA](https://www.arraina.eu/) (advanced research initiatives for nutrition and aquaculture) project.
+The primary purpose of this study is to elucidate the effect of micronutrient (vitamins and minerals) on metabolic pathways from a genetic and epigenetic point of view. Specifically, our aim is to analyse and understand the influences of micronutrients in Atlantic salmon feed through [a whole life cycle feeding trial](https://doi.org/10.1016/j.aquaculture.2020.735551) (over 54 weeks for salmon) conducted under the EU funded [ARRAINA](https://www.arraina.eu/) (advanced research initiatives for nutrition and aquaculture) project.
 
 With the rapid expansion of the aquaculture industry in the last two decades, we can hardly sustain traditional practices as feeding fish to grow other fish. Hence, aquaculture feeds have been shifted to containing more plant-based materials. Consequently, the optimised levels of nutrition, including micronutrient, are altered and need to be updated to produce healthier and more nutritious fish.
 
