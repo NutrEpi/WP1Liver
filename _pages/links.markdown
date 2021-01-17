@@ -10,8 +10,8 @@ categories: resources
 ---
 
 ## NutrEpi
-[NutrEpiWeb](https://nutrepi.github.io)
+[NutrEpiWeb](https://nutrepi.github.io){: .btn}
 : A portal site of all NutrEpi work packages and projects
 
-[NutrEpi WP1 Gonad]()
+[NutrEpi WP1 Gonad](){: .btn}
 : A website of the project summary for NutrEpi WP1 (gonad)
