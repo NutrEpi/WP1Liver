@@ -32,3 +32,6 @@ The main goal of the project is to elucidate the effect of micronutrient (vitami
 The project is based on the samples collected through a whole life cycle feeding trial (over 54 weeks) of Atlantic salmon (*Salmo salar*) conducted under the EU funded [ARRAINA](https://www.arraina.eu/) (advanced research initiatives for nutrition and aquaculture) project.
 
 The next page ([project summary]({{ site.baseurl }}/docs/project-summary/)) presents more detailed project description with the experimental design, followed by a summary of our main findings.  
+
+## Page link
+- [Project summary]({{ site.baseurl }}/docs/project-summary/){: .btn}
