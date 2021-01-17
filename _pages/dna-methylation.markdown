@@ -19,6 +19,13 @@ Reduced representation bisulfite sequencing.
 
 A table of RRBS samples.
 
-## Differential DNA methylation analysis
-- [DMC: differentially methylated CpG site]({{ site.baseurl }}/docs/differentially-methylated-cpg-site/)
-- [DMG: differentially methylated gene]({{ site.baseurl }}/docs/differentially-methylated-gene/)
+## Links
+*DMC: differentially methylated CpG site*
+- [What are DMCs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
+- [DMCs L2:L1]({{ site.baseurl }}/docs/dmc-l2l1/){: .btn}
+- [DMCs L3:L1]({{ site.baseurl }}/docs/dmc-l3l1/){: .btn}
+
+*DMG: differentially methylated gene*
+- [What are DMGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
+- [DMGs L2:L1]({{ site.baseurl }}/docs/dmg-l2l1/){: .btn}
+- [DMGs L3:L1]({{ site.baseurl }}/docs/dmg-l3l1/){: .btn}

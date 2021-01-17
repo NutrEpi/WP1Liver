@@ -19,5 +19,8 @@ RNA sequencing.
 
 A table of RNA-seq samples.
 
-## Differential expression analysis
-- [DEG: differentially expressed gene]({{ site.baseurl }}/docs/differentially-expressed-gene/)
+## Links
+*DEG: differentially expressed gene*
+- [What are DEGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
+- [DEGs L2:L1]({{ site.baseurl }}/docs/degl2l1/){: .btn}
+- [DEGs L3:L1]({{ site.baseurl }}/docs/degl3l1/){: .btn}
