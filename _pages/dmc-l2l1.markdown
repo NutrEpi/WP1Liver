@@ -23,6 +23,17 @@ We identified 2525 DMCs for L2:L1 when the following criteria were applied and L
 - [What are DMCs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
 - [DMCs L3:L1]({{ site.baseurl }}/docs/dmc-l3l1/){: .btn}
 
+## Relevant Excel files
+[Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#9-excel-files-for-degs-dmcs-and-dmgs){: .btn} contain more information than the list presented here.
+
+{% capture excel %}
+- Dataset_03_CpG_L2L1.xlsx
+{% endcapture %}
+
+<div class="notice">
+  {{ excel | markdownify }}
+</div>
+
 ## List of the DMCs between L1 and L2 diets
 
 {% include datatable.html id=page.datatable.id

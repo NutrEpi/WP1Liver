@@ -3,6 +3,8 @@ permalink: /docs/links/
 layout: single
 sidebar:
   nav: "docs"
+toc: true
+toc_sticky: true
 comments: true
 share: true  
 title:  "Links of relevant websites"
