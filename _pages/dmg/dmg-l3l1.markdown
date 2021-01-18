@@ -39,7 +39,7 @@ We identified 1997 DMGs for L2:L1. We defined DMGs as the genes that required th
 ## List of the DMGs between L1 and L3 diets
 
 {% include datatable.html id=page.datatable.id
-  data=site.data.dmgl3l1 nrow=page.datatable.nrow
+  data=site.data.dmg.dmgl3l1 nrow=page.datatable.nrow
   nowrap=page.datatable.nowrap %}
 
 {% include widepage_buttons.html previous=page.buttons.previous

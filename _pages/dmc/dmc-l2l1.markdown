@@ -37,7 +37,7 @@ We identified 2525 DMCs for L2:L1 when the following criteria were applied and L
 ## List of the DMCs between L1 and L2 diets
 
 {% include datatable.html id=page.datatable.id
-  data=site.data.dmcl2l1 nrow=page.datatable.nrow
+  data=site.data.dmc.dmcl2l1 nrow=page.datatable.nrow
   nowrap=page.datatable.nowrap %}
 
 {% include widepage_buttons.html previous=page.buttons.previous

@@ -37,5 +37,5 @@ We identified 74 DEGs for L2:L1 when the following criteria were applied and L1 
 ## List of DEGs between L1 and L2 diets
 
 {% include datatable.html id=page.datatable.id
-  data=site.data.degl2l1 nrow=page.datatable.nrow
+  data=site.data.deg.degl2l1 nrow=page.datatable.nrow
   nowrap=page.datatable.nowrap %}

@@ -31,7 +31,7 @@ We collected 18 liver samples at the final harvest stage for RNA-seq.
 </div>
 
 {% include datatable_sortonly.html id='table_rnaseq'
-  data=site.data.rnaseq_samples nrow=18 %}
+  data=site.data.rna.rnaseq_samples nrow=18 %}
 
 ## Bioinformatics pipelne for RNA-seq
 We used various bioinformatics algorithms and methods to analyse our RNA-seq samples.
@@ -78,7 +78,7 @@ Gene expression patterns in lipid metabolism were affected in a dose dependant m
 that most [KEGG](https://www.genome.jp/kegg/){: .btn} (Kyoto Encyclopedia of Genes and Genomes
 ) enriched pathways were down-regulated by micronutrient supplements.
 
-{% include table.html id='table_rnaseq_gsea' data=site.data.rnaseq_gsea
+{% include table.html id='table_rnaseq_gsea' data=site.data.rna.rnaseq_gsea
    caption='Enriched KEGG pathways by GSEA (gene set enrichment analysis).' %}
 
 ## Page links

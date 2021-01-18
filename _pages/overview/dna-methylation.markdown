@@ -41,7 +41,7 @@ We collected 21 liver samples at the final harvest stage for RRBS sequencing.
 </div>
 
 {% include datatable_sortonly.html id='table_rrbs'
-  data=site.data.rrbs_samples nrow=21 %}
+  data=site.data.dna.rrbs_samples nrow=21 %}
 
 ## Definition of genomic regions
 Functions of DNA methylation can be different depending on the types of regions where methylation occurs.
@@ -107,7 +107,7 @@ See [What are DMCs?]({{ site.baseurl }}/docs/differentially-methylated-cpg-site/
 ### Significantly affected biological pathways
 [ORA](https://doi.org/10.1093/bioinformatics/bth456){: .btn} (over representation analysis) on [KEGG](https://www.genome.jp/kegg/){: .btn} (Kyoto Encyclopedia of Genes and Genomes) pathways showed that micronutrient supplement significantly affected DNA methylation profiles in cell-adhesion and cell-signalling pathways.
 
-{% include table.html id='table_rrbs_ora' data=site.data.rrbs_ora
+{% include table.html id='table_rrbs_ora' data=site.data.dna.rrbs_ora
    caption='Enriched KEGG pathways by ORA (over representation analysis).' %}
 
 ## Page links

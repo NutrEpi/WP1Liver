@@ -44,7 +44,7 @@ Through the trial, Atlantic salmon in triplicate groups - L1, L2, L3 - were fed 
   {{ feed | markdownify }}
 </div>
 
-{% include table.html id='table_trial_feed' data=site.data.feed
+{% include table.html id='table_trial_feed' data=site.data.growth.feed
    caption='Added micronutrient concentrations (mg/kg) within the NP.' %}
 
 ### Growth performance

@@ -37,5 +37,5 @@ We identified 245 DEGs for L3:L1 when the following criteria were applied and L1
 ## List of DEGs between L1 and L3 diets
 
 {% include datatable.html id=page.datatable.id
-  data=site.data.degl3l1 nrow=page.datatable.nrow
+  data=site.data.deg.degl3l1 nrow=page.datatable.nrow
   nowrap=page.datatable.nowrap %}
