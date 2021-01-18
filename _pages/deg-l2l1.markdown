@@ -11,9 +11,17 @@ datatable:
   nrow: 74
   nowrap: "Adj p-val"
 ---
-Brief summary of L2:L1 DEGs.
 
-## List of the DEGs between L1 and L2 diets
+## DEGs for L2:L1
+We identified 74 DEGs for L2:L1 when the following criteria were applied and L1 was used as control.
+1. `abs(LFC) >= 0`
+2. `Adjusted p-value < 0.05`
+
+## Page links
+- [What are DEGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
+- [List of DEGs - L3 vs. L1]({{ site.baseurl }}/docs/deg-l3l1/){: .btn}
+
+## List of DEGs between L1 and L2 diets
 
 {% include datatable.html id=page.datatable.id
   data=site.data.degl2l1 nrow=page.datatable.nrow
