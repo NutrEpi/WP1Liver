@@ -33,7 +33,7 @@ The following tools were those we used in our main RNA-seq pipeline.
 - [MultiQC](https://multiqc.info/){: .btn} (quality control report)
 - [HISAT2](http://daehwankimlab.github.io/hisat2/){: .btn} (read alignment)
 - [featureCounts](http://daehwankimlab.github.io/hisat2/){: .btn} (quantification)
-- [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html){: .btn} (differential expression analysis)
+- [DESeq2](https://bioconductor.org/packages/DESeq2/){: .btn} (differential expression analysis)
 
 ## Results
 ### Overall diet effect

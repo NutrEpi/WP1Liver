@@ -13,10 +13,14 @@ buttons:
 
 # {{ page.title }}
 
-{% include widepage_buttons.html previous=page.buttons.previous
-  next=page.buttons.next %}
+## DMGs for L3:L1
+We identified 1997 DMGs for L2:L1. We defined DMGs as the genes that required the following condition.
+1. A gene has at least one DMC in its gene body, promoter or flanking region.
+2. Only the DMCs for L3:L1 were considered
 
-Brief summary of L3:L1 DMGs.
+## Page links
+- [What are DMGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
+- [DMGs L2:L1]({{ site.baseurl }}/docs/dmg-l2l1/){: .btn}
 
 ## List of the DMGs between L1 and L3 diets
 

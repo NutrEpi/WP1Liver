@@ -53,7 +53,7 @@ The following tools were those we used in our main RRBS pipeline.
 - [Trim Galore!](https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/){: .btn} (adapter trimming)
 - [MultiQC](https://multiqc.info/){: .btn} (quality control report)
 - [Bismark](https://www.bioinformatics.babraham.ac.uk/projects/bismark/){: .btn} (read alignment)
-- [methylKit](https://bioconductor.org/packages/release/bioc/html/DESeq2.html){: .btn} (differential methylation analysis)
+- [methylKit](https://bioconductor.org/packages/methylKit/){: .btn} (differential methylation analysis)
 
 ## Results
 ### Overall diet effect
@@ -63,7 +63,7 @@ Unlike RNA-seq samples, t-SNE clustering analysis showed no obvious separations 
     <figcaption>t-SNE (t-distributed stochastic neighbor embedding) clustering of 21 RRBS samples.</figcaption>
 </figure>
 
-### Differentially methylated CpG site
+### Differentially methylated CpG sites
 There are no noticeable differences between L2:L1 and L3:L1 as well as hypo- and hyper-methylation in terms of the number of DMCs.
 - Identified 2521 DMCs for L2:L1
 - Identified 2555 DMCs for L3:L1
