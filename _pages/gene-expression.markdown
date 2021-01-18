@@ -17,11 +17,18 @@ A brief summary of our RNA-seq analysis.
 We used RNA sequencing (RNA-seq) - high-throughput sequence technology based on next-generation sequencing (NGS) - to analyse the transcriptome profiles affected by our experimental feed with different micronutrient compositions.
 
 ## RNA-seq samples
-18 liver samples were collected at the final harvest stage for RNA-seq.
+We collected 18 liver samples at the final harvest stage for RNA-seq.
 
-- L1 diet: 6 samples
-- L2 diet: 6 samples
-- L3 diet: 6 samples
+{% capture feed_groups %}
+- **L1 diet**: 6 samples
+- **L2 diet**: 6 samples
+- **L3 diet**: 6 samples
+{% endcapture %}
+
+<div class="notice">
+  <h4 class="no_toc">The number of samples for each group</h4>
+  {{ feed_groups | markdownify }}
+</div>
 
 {% include datatable_sortonly.html id='table_rnaseq'
   data=site.data.rnaseq_samples nrow=18 %}
@@ -45,16 +52,24 @@ Clustering analysis clearly separates our 12 liver samples into three groups by 
 
 ### Differentially expressed genes
 L3 diet affected gene expression profiles more than L2 diet in terms of the number of DEGs.
-- Identified 74 DEGs for L2:L1
-- Identified 245 DEG sor L3:L1
 
-See [What are DEGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn} for more details.
+{% capture degs %}
+- **L2 vs. L1**: 74 DEGs
+- **L3 vs. L1**: 245 DEGs
+{% endcapture %}
+
+<div class="notice">
+  <h4 class="no_toc">Identified DEGs for L2:L1 and L3:L1</h4>
+  {{ degs | markdownify }}
+</div>
 
 <figure class="half">
     <img src="{{ site.baseurl }}/assets/images/volcate_l1l2_a.svg" alt="Violin plot of L2:L1 DEGs">
     <img src="{{ site.baseurl }}/assets/images/volcate_l1l3_a.svg" alt="Violin plot of L3:L1 DEGs">
     <figcaption>Body weights and HSI at smolt and final harvest stages.</figcaption>
 </figure>
+
+See [What are DEGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn} for more details about DEGs.
 
 ### Significantly affected biological pathways
 Gene expression patterns in lipid metabolism were affected in a dose dependant manner (L3 < L2 < L1).
