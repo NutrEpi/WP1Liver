@@ -48,7 +48,9 @@ docs:
 
   - title: Resources
     children:
+      - title: "Links"
+        url: /docs/links/
       - title: "Downloads"
         url: /docs/downloads/
-      - title: "Relevant projects"
-        url: /docs/links/
+      - title: "Publications"
+        url: /docs/publications/
