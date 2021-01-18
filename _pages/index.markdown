@@ -9,7 +9,7 @@ title:  "NutrEpi WP1 Liver"
 ---
 
 <p>
-<img src="{{site.baseurl}}/assets/images/logo_w.png" align="right" alt="NutrEpi WP1Liver" width="150" />
+<img src="{{site.baseurl}}/assets/images/logo/logo_w.png" align="right" alt="NutrEpi WP1Liver" width="150" />
 </p>
 
 The aim of this site is to provide an easy-to-access online materials

@@ -50,7 +50,7 @@ We then defined DMGs as genes with at least one DMC in the following genomic reg
 </div>
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/genomic_regions.svg" alt="Genomic regions for RRBS read alignment" >
+  <img src="{{ site.baseurl }}/assets/images/dna/genomic_regions.svg" alt="Genomic regions for RRBS read alignment" >
   <figcaption>Definition of genomic regions for RRBS read alignment.</figcaption>
 </figure>
 
