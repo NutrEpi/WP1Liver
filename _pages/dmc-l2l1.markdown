@@ -14,10 +14,14 @@ buttons:
 
 # {{ page.title }}
 
-{% include widepage_buttons.html previous=page.buttons.previous
-  next=page.buttons.next %}
+## DMCs for L2:L1
+We identified 2525 DMCs for L2:L1 when the following criteria were applied and L1 was used as control.
+1. `abs(percentage methylation difference) >= 20%`
+2. `Q-value < 0.01`
 
-Brief summary of L2:L1 DMCs.
+## Page links
+- [What are DMCs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
+- [DMCs L3:L1]({{ site.baseurl }}/docs/dmc-l3l1/){: .btn}
 
 ## List of the DMCs between L1 and L2 diets
 
