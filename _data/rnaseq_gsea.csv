@@ -1,0 +1,11 @@
+Pathway,KEGG ID,GSEA L2:L1,GSEA L3:L1
+Steroid biosynthesis,sasa00100,-2.53,-2.76
+Terpenoid backbone biosynthesis,sasa00900,-2.31,-2.47
+PPAR signalling pathway,sasa03320,-1.58,-
+Fatty acid metabolism,sasa01212,-1.72,-2.2
+Pyruvate metabolism,sasa00620,-,-1.86
+Carbon metabolism,sasa01200,-1.59,-1.97
+Butanoate metabolism,sasa00650,-1.94,-1.87
+"Glycine, serine and threonine metabolism",sasa00260,-2.24,-1.71
+Synthesis and degradation of ketone bodies,sasa00072,-1.85,-1.75
+Glutathione metabolism,sasa00480,-1.61,-1.94

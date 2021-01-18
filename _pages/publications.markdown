@@ -10,6 +10,7 @@ categories: resources
 ---
 
 ## WP1
+Site: [Work package page on NutrEpiWeb](https://nutrepi.github.io/workpackages/nutrepi-wp1/){: .btn}
 <p class="notice--info">
 Takaya Saito, Paul Whatmore, John F Taylor, Jorge M O Fernandes, Anne-Catrin Adam,
 Douglas R Tocher, Marit Espe and Kaja H Skjærven (2020)
@@ -22,6 +23,7 @@ PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33315488/">33315488</a>
 </p>
 
 ## WP2
+Site: [Work package page on NutrEpiWeb](https://nutrepi.github.io/workpackages/nutrepi-wp2/){: .btn}
 <p class="notice--info">
 Kaja H Skjærven, Eystein Oveland, Maren Mommens, Elisa Samori, Takaya Saito, Anne-Catrin Adam and Marit Espe (2020)
 <br />
@@ -33,6 +35,7 @@ PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32376458/">32376458</a>
 </p>
 
 ## WP3
+Site: [Work package page on NutrEpiWeb](https://nutrepi.github.io/workpackages/nutrepi-wp3/){: .btn}
 <p class="notice--info">
 Marit Espe, Vibeke Vikeså, Tårn Helgøy Thomsen, Anne‐Catrin Adam, Takaya Saito and Kaja H Skjærven (2020)
 <br />

@@ -1,8 +1,7 @@
 # NutrEpi WP1 Liver <img src="{{site.baseurl}}/assets/images/logo.png" align="right" alt="" width="100" />
 [![Travis](https://travis-ci.org/NutrEpi/wp1liver.svg?branch=gh-pages)](https://travis-ci.org/NutrEpi/wp1liver)
 
-An easy-to-access online database for the NutrEpi Work Package 1 (liver) project.
-
+An easy-to-access online materials for the NutrEpi Work Package 1 (liver) project.
 ![](data/link-solid_16x16.svg) [nutrepi.github.io/wp1liver/](http://nutrepi.github.io/wp1liver/)
 
 ## Credits
@@ -11,7 +10,7 @@ The development and maintenance of this website is based on Jekyll - simple, blo
 - [Jekyll](http://jekyllrb.com/)
 - [GitHub Pages](https://pages.github.com/)
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (Jekyll theme)
-- [Simple-DataTables](https://github.com/fiduswriter/Simple-DataTables/) (Simple JS data table)
+- [Vanilla-DataTables](https://github.com/Mobius1/Vanilla-DataTables/) (Simple JS data table)
 - [DISQUS](https://disqus.com/) (Comments and discussion)
 - [algolia](https://www.algolia.com/) (Site search)
 - [formspree](https://formspree.io/) (Contact form)
