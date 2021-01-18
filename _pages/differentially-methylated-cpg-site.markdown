@@ -21,7 +21,7 @@ We used three groups - L1, L2 and L3 diets - to calculate DMCs. L1 diet was used
 See [Experimental feed]({{ site.baseurl }}/docs/project-summary/#experimental-feed){: .btn} for details about L1, L2 and L3 groups.
 
 ## Statistical calculation
-We used [methylKit](https://bioconductor.org/packages/methylKit/) to calculate methylation differences (%) and q-values between treatment and control groups. Positive methylation differences indicate hyper-methylation, whereas negative methylation differences indicate hypo-methylation based on the L1 DNA methylation. We used the following criteria to define our DEGs.
+We used [methylKit](https://bioconductor.org/packages/methylKit/){: .btn} to calculate methylation differences (%) and q-values between treatment and control groups. Positive methylation differences indicate hyper-methylation, whereas negative methylation differences indicate hypo-methylation based on the L1 DNA methylation. We used the following criteria to define our DEGs.
 
 1. `abs(percentage methylation differences) >= 20%`
 2. `Q-value < 0.01`

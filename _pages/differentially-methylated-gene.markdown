@@ -21,7 +21,7 @@ We used three groups - L1, L2 and L3 diets - to define DMGs. L1 diet was used as
 See [Experimental feed]({{ site.baseurl }}/docs/project-summary/#experimental-feed){: .btn} for details about L1, L2 and L3 groups.
 
 ## Definition of DMGs
-We used [methylKit](https://bioconductor.org/packages/methylKit/) to define DMCs with the following criteria.
+We used [methylKit](https://bioconductor.org/packages/methylKit/){: .btn} to define DMCs with the following criteria.
 
 1. `abs(percentage methylation differences) >= 20%`
 2. `Q-value < 0.01`
@@ -49,8 +49,8 @@ Most DMGs have only one DMC for both L2:L1 and L3:L1.
 
 ## Analysis of DMGs
 We further analysed DMGs to understand the differences of DNA methylation profiles affected by micronutrients.
-- ORA (over representation analysis) on [KEGG](https://www.genome.jp/kegg/) (Kyoto Encyclopedia of Genes and Genomes) pathways
-- ORA (over representation analysis) on [GO](http://geneontology.org/) (Gene Ontology) terms
+- ORA (over representation analysis) on [KEGG](https://www.genome.jp/kegg/){: .btn} (Kyoto Encyclopedia of Genes and Genomes) pathways
+- ORA (over representation analysis) on [GO](http://geneontology.org/){: .btn} (Gene Ontology) terms
 - Linking with gene expression result
 
 ## List of DMGs with gene symbols and gene names

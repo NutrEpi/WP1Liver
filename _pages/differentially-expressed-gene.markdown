@@ -39,9 +39,9 @@ L3 diet affected gene expression profiles more than L2 diet in terms of the numb
 
 ## Analysis of DEGs
 We further analysed DEGs to understand the genetic regulations affected by micronutrients.
-- ORA (over representation analysis) on [KEGG](https://www.genome.jp/kegg/) (Kyoto Encyclopedia of Genes and Genomes) pathways
-- [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp) (gene set enrichment analysis) on [KEGG](https://www.genome.jp/kegg/)
-- ORA (over representation analysis) on [GO](http://geneontology.org/) (Gene Ontology) terms
+- ORA (over representation analysis) on [KEGG](https://www.genome.jp/kegg/){: .btn} (Kyoto Encyclopedia of Genes and Genomes) pathways
+- [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp){: .btn} (gene set enrichment analysis) on [KEGG](https://www.genome.jp/kegg/){: .btn}
+- ORA (over representation analysis) on [GO](http://geneontology.org/){: .btn} (Gene Ontology) terms
 - Linking with DNA methylation result
 
 ## List of DEGs with gene symbols and gene names

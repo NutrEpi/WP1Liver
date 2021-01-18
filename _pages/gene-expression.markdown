@@ -59,8 +59,8 @@ See [What are DEGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .
 ### Significantly affected biological pathways
 Gene expression patterns in lipid metabolism were affected in a dose dependant manner (L3 < L2 < L1).
 
-[GSEA](https://www.gsea-msigdb.org/gsea/index.jsp) (gene set enrichment analysis) showed
-that most [KEGG](https://www.genome.jp/kegg/) (Kyoto Encyclopedia of Genes and Genomes
+[GSEA](https://www.gsea-msigdb.org/gsea/index.jsp){: .btn} (gene set enrichment analysis) showed
+that most [KEGG](https://www.genome.jp/kegg/){: .btn} (Kyoto Encyclopedia of Genes and Genomes
 ) enriched pathways were down-regulated by micronutrient supplements.
 
 {% include table.html id='table_rnaseq_gsea' data=site.data.rnaseq_gsea

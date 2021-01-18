@@ -76,7 +76,7 @@ See [What are DMCs?]({{ site.baseurl }}/docs/differentially-methylated-cpg-site/
 </figure>
 
 ### Significantly affected biological pathways
-DNA methylation profiles in cell-adhesion and cell-signalling pathways were significantly affected by micronutrient supplements.
+ORA (over representation analysis) on [KEGG](https://www.genome.jp/kegg/){: .btn} (Kyoto Encyclopedia of Genes and Genomes) pathways showed that micronutrient supplement significantly affected DNA methylation profiles in cell-adhesion and cell-signalling pathways.
 
 {% include table.html id='table_rrbs_ora' data=site.data.rrbs_ora
    caption='Enriched KEGG pathways by ORA (over representation analysis).' %}
