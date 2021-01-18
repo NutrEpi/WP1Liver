@@ -12,8 +12,8 @@ datatable:
   nowrap: "Adj p-val"
 ---
 
-## DEGs for L2:L1
-We identified 74 DEGs for L2:L1 when the following criteria were applied and L1 was used as control.
+## DEGs for L3:L1
+We identified 245 DEGs for L3:L1 when the following criteria were applied and L1 was used as control.
 1. `abs(LFC) >= 0`
 2. `Adjusted p-value < 0.05`
 
