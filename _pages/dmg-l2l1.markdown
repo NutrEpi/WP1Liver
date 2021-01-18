@@ -15,7 +15,7 @@ buttons:
 
 ## DMGs for L2:L1
 We identified 1998 DMGs for L2:L1. We defined DMGs as the genes that required the following conditions.
-1. A gene has at least one DMC in gene body, promoter, and flanking regions.
+1. A gene has at least one DMC in its gene body, promoter or flanking region.
 2. Only the DMCs for L2:L1 were considered
 
 ## Page links
