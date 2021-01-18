@@ -27,7 +27,7 @@ Our analyses were based on the liver samples of Atlantic salmon fed with three g
 We collected liver samples at the final harvest stage for gene expression and DNA methylation analysis.
 
 {% include figure
-  image_path="/assets/images/experimental_design.svg"
+  image_path="/assets/images/growth/experimental_design.svg"
   alt="Experimental design"
   caption="Three groups of Atlantic salmon were fed with different levels of micronutrients through the trial." %}
 
@@ -71,8 +71,8 @@ Through the trial, Atlantic salmon in triplicate groups - L1, L2, L3 - were fed 
 </div>
 
 <figure class="half">
-    <img src="{{ site.baseurl }}/assets/images/weight_barplot.svg" alt="Barplot of Atlantic salmon body weights">
-    <img src="{{ site.baseurl }}/assets/images/hsi_barplot.svg" alt="Barplot of Atlantic salmon hepatosomatic index values">
+    <img src="{{ site.baseurl }}/assets/images/growth/weight_barplot.svg" alt="Barplot of Atlantic salmon body weights">
+    <img src="{{ site.baseurl }}/assets/images/growth/hsi_barplot.svg" alt="Barplot of Atlantic salmon hepatosomatic index values">
     <figcaption>Body weights and HSI at smolt and final harvest stages.</figcaption>
 </figure>
 

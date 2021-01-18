@@ -63,7 +63,7 @@ We split the genome into seven different regions for our RRBS analysis.
 </div>
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/genomic_regions.svg" alt="Genomic regions for RRBS read alignment" >
+  <img src="{{ site.baseurl }}/assets/images/dna/genomic_regions.svg" alt="Genomic regions for RRBS read alignment" >
   <figcaption>Definition of genomic regions for RRBS read alignment.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ The following tools were those we used in our main RRBS pipeline.
 ### Overall diet effect
 Unlike RNA-seq samples, t-SNE clustering analysis showed no obvious separations of RRBS samples by diet.
 <figure>
-    <img src="{{ site.baseurl }}/assets/images/rrbs_tsne.svg" alt="t-SNE clustering for RRBS samples" >
+    <img src="{{ site.baseurl }}/assets/images/dna/rrbs_tsne.svg" alt="t-SNE clustering for RRBS samples" >
     <figcaption>t-SNE (t-distributed stochastic neighbor embedding) clustering of 21 RRBS samples.</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ There are no noticeable differences between L2:L1 and L3:L1 as well as hypo- and
 </div>
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/images/dmc.png" alt="Volcano plots of DMCs">
+    <img src="{{ site.baseurl }}/assets/images/dna/dmc.png" alt="Volcano plots of DMCs">
     <figcaption>Volcano plots of DMCs.</figcaption>
 </figure>
 

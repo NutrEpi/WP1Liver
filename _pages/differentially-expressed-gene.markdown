@@ -47,8 +47,8 @@ L3 diet affected gene expression profiles more than L2 diet in terms of the numb
 </div>
 
 <figure class="half">
-    <img src="{{ site.baseurl }}/assets/images/volcate_l1l2_a.svg" alt="Violin plot of L2:L1 DEGs">
-    <img src="{{ site.baseurl }}/assets/images/volcate_l1l3_a.svg" alt="Violin plot of L3:L1 DEGs">
+    <img src="{{ site.baseurl }}/assets/images/rna/volcate_l1l2_a.svg" alt="Violin plot of L2:L1 DEGs">
+    <img src="{{ site.baseurl }}/assets/images/rna/volcate_l1l3_a.svg" alt="Violin plot of L3:L1 DEGs">
     <figcaption>Body weights and HSI at smolt and final harvest stages.</figcaption>
 </figure>
 
