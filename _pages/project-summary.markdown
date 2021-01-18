@@ -25,10 +25,11 @@ Our analyses were based on the liver samples of Atlantic salmon fed with three g
 
 ### Experimental design
 Liver samples were collected at the final harvest stage for gene expression and DNA methylation analysis.
-<figure>
-    <img src="{{ site.baseurl }}/assets/images/experimental_design.svg">
-    <figcaption>Three groups of Atlantic salmon were fed with different levels of micronutrients through the trial.</figcaption>
-</figure>
+
+{% include figure
+  image_path="/assets/images/experimental_design.svg"
+  alt="Experimental design"
+  caption="Three groups of Atlantic salmon were fed with different levels of micronutrients through the trial." %}
 
 ### Experimental feed
 Through the trial, triplicate groups - L1, L2, L3 - were fed with graded levels of micronutrient supplements, formulated with nutrition package (NP).
@@ -51,18 +52,28 @@ Through the trial, triplicate groups - L1, L2, L3 - were fed with graded levels 
 - Harvest: No significant difference among L1, L2 and L3
 
 <figure class="half">
-    <img src="{{ site.baseurl }}/assets/images/weight_barplot.svg">
-    <img src="{{ site.baseurl }}/assets/images/hsi_barplot.svg">
+    <img src="{{ site.baseurl }}/assets/images/weight_barplot.svg" alt="Barplot of Atlantic salmon body weights">
+    <img src="{{ site.baseurl }}/assets/images/hsi_barplot.svg" alt="Barplot of Atlantic salmon hepatosomatic index values">
     <figcaption>Body weights and HSI at smolt and final harvest stages.</figcaption>
 </figure>
 
 ## Main findings
+Micronutrient supplementation suppresses liver gene expression in the pathways related to lipid metabolism and increases the methylation rates in the acetyl-CoA carboxylase alpha (acaca) gene, which is involved in the upstream regulation of the lipid biosynthesis pathway
 
 ### 1. Gene expression
+- **Overall diet effect**: clustering analysis clearly separates our 12 liver samples into three groups by diet
+- **Dose dependent effect**: biological pathways, especially those related with lipid metabolism,
+were affected in a dose dependant manner (L3 < L2 < L1)
 
 ### 2. DNA methylation
+- **Overall diet effect**: clustering analysis shows no obvious separations by diet
+- **Affected pathways**: biological pathways related with cell-adhesion and cell-signalling
+were significantly affected by micronutrient supplements
 
 ### 3. Acetyl-CoA carboxylase alpha (acaca)
+- Significantly *down-regulated* gene expression with L3 having the lowest expression level (L3 < L2 < L1)
+- Significantly *hyper-methylated* CpG site in its promoter region (L3 > L2 > L1)
+- Involved in the *upstream regulation of the lipid biosynthesis* pathway
 
 ## Page links
 - [Gene expression]({{ site.baseurl }}/docs/gene-expression/){: .btn}

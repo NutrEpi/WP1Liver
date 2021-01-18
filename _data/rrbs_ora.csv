@@ -1,0 +1,8 @@
+Dataset,Pathway,KEGG ID,ORA (gene ratio)
+L2:L1,Cell adhesion molecules (CAMs),sasa04514,"RS+GB (38/616), P+GB (32/517), Gene body (31/420), Intron (26/339)"
+,Glycosaminoglycan degradation,sasa00531,P1K (2/21)
+,Mitophagy - animal,sasa04137,"Promoter (7/99), P1K (3/21)"
+,Apelin signalling pathway,sasa04371,P+GB (28/517)
+,Starch and sucrose metabolism,sasa00500,P6K (4/74)
+L3:L1,Cell adhesion molecules (CAMs),sasa04514,"RS+GB (37/573), P+GB (30/465), Gene body (27/388), Intron (27/320)"
+,ECM-receptor interaction,sasa04512,Intron (15/320)
