@@ -41,7 +41,7 @@ We collected 21 liver samples at the final harvest stage for RRBS sequencing.
 </div>
 
 {% include datatable_sortonly.html id='table_rrbs'
-  data=site.data.rrbs_samples nrow=21 %}
+  data=site.data.dna.rrbs_samples nrow=21 %}
 
 ## Definition of genomic regions
 Functions of DNA methylation can be different depending on the types of regions where methylation occurs.
@@ -63,7 +63,7 @@ We split the genome into seven different regions for our RRBS analysis.
 </div>
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/genomic_regions.svg" alt="Genomic regions for RRBS read alignment" >
+  <img src="{{ site.baseurl }}/assets/images/dna/genomic_regions.svg" alt="Genomic regions for RRBS read alignment" >
   <figcaption>Definition of genomic regions for RRBS read alignment.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ The following tools were those we used in our main RRBS pipeline.
 ### Overall diet effect
 Unlike RNA-seq samples, t-SNE clustering analysis showed no obvious separations of RRBS samples by diet.
 <figure>
-    <img src="{{ site.baseurl }}/assets/images/rrbs_tsne.svg" alt="t-SNE clustering for RRBS samples" >
+    <img src="{{ site.baseurl }}/assets/images/dna/rrbs_tsne.svg" alt="t-SNE clustering for RRBS samples" >
     <figcaption>t-SNE (t-distributed stochastic neighbor embedding) clustering of 21 RRBS samples.</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ There are no noticeable differences between L2:L1 and L3:L1 as well as hypo- and
 </div>
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/images/dmc.png" alt="Volcano plots of DMCs">
+    <img src="{{ site.baseurl }}/assets/images/dna/dmc.png" alt="Volcano plots of DMCs">
     <figcaption>Volcano plots of DMCs.</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ See [What are DMCs?]({{ site.baseurl }}/docs/differentially-methylated-cpg-site/
 ### Significantly affected biological pathways
 [ORA](https://doi.org/10.1093/bioinformatics/bth456){: .btn} (over representation analysis) on [KEGG](https://www.genome.jp/kegg/){: .btn} (Kyoto Encyclopedia of Genes and Genomes) pathways showed that micronutrient supplement significantly affected DNA methylation profiles in cell-adhesion and cell-signalling pathways.
 
-{% include table.html id='table_rrbs_ora' data=site.data.rrbs_ora
+{% include table.html id='table_rrbs_ora' data=site.data.dna.rrbs_ora
    caption='Enriched KEGG pathways by ORA (over representation analysis).' %}
 
 ## Page links

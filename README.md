@@ -1,8 +1,8 @@
-# NutrEpi WP1 Liver <img src="{{site.baseurl}}/assets/images/logo.png" align="right" alt="" width="100" />
+# NutrEpi WP1 Liver <img src="{{site.baseurl}}/assets/images/logo/logo.png" align="right" alt="" width="100" />
 [![Travis](https://travis-ci.org/NutrEpi/wp1liver.svg?branch=gh-pages)](https://travis-ci.org/NutrEpi/wp1liver)
 
 An easy-to-access online materials for the NutrEpi Work Package 1 (liver) project.
-  
+
 ![](data/link-solid_16x16.svg) [nutrepi.github.io/wp1liver/](http://nutrepi.github.io/wp1liver/)
 
 ## Credits
