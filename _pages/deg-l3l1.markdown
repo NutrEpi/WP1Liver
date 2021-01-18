@@ -21,6 +21,19 @@ We identified 245 DEGs for L3:L1 when the following criteria were applied and L1
 - [What are DEGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn}
 - [List of DEGs - L2 vs. L1]({{ site.baseurl }}/docs/deg-l2l1/){: .btn}
 
+## Relevant Excel files
+[Excel files (Downloads page)]({{ site.baseurl }}/docs/downloads/#9-excel-files-for-degs-dmcs-and-dmgs){: .btn} contain more information than the list presented here.
+
+{% capture excel %}
+- Dataset_01_DEG.xlsx
+- Dataset_02_KEGG_DEG.xlsx
+- Dataset_09_DEG_DMC.xlsx
+{% endcapture %}
+
+<div class="notice">
+  {{ excel | markdownify }}
+</div>
+
 ## List of DEGs between L1 and L3 diets
 
 {% include datatable.html id=page.datatable.id

@@ -3,6 +3,8 @@ permalink: /docs/publications/
 layout: single
 sidebar:
   nav: "docs"
+toc: true
+toc_sticky: true
 comments: true
 share: true  
 title:  "Publications"
