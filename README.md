@@ -17,6 +17,7 @@ The development and maintenance of this website is based on Jekyll - simple, blo
 - [formspree](https://formspree.io/) (Contact form)
 - [Vanilla Back To Top](https://github.com/vfeskov/vanilla-back-to-top) (Back To Top JS button)
 - [Google Analytics](https://analytics.google.com/analytics/web/) (Website traffic report)
+- [CookieNotice](https://github.com/AOEpeople/cookie-notice/) (Cookie notice banner JS)
 
 ## Citation
 
