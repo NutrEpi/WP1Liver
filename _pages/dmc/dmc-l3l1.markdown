@@ -10,9 +10,6 @@ datatable:
   id: dmcl3l1
   nrow: 2555
   nowrap: "Q-value"
-buttons:
-  previous: "/docs/dmc-l2l1/"
-  next: /docs/differentially-methylated-gene/
 ---
 
 ## DMCs for L3:L1
@@ -40,6 +37,3 @@ We identified 2555 DMCs for L3:L1 when the following criteria were applied and L
 {% include datatable.html id=page.datatable.id
   data=site.data.dmc.dmcl3l1 nrow=page.datatable.nrow
   nowrap=page.datatable.nowrap %}
-
-{% include widepage_buttons.html previous=page.buttons.previous
-  next=page.buttons.next %}
