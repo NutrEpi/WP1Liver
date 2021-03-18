@@ -9,9 +9,6 @@ categories: dna-methylation dmg l2l1
 datatable:
   id: dmgl2l1
   nrow: 1998
-buttons:
-  previous: "/docs/differentially-methylated-gene/"
-  next: "/docs/dmg-l3l1/"
 ---
 
 ## DMGs for L2:L1
@@ -42,6 +39,3 @@ We identified 1998 DMGs for L2:L1. We defined DMGs as the genes that required th
 {% include datatable.html id=page.datatable.id
   data=site.data.dmg.dmgl2l1 nrow=page.datatable.nrow
   nowrap=page.datatable.nowrap %}
-
-{% include widepage_buttons.html previous=page.buttons.previous
-  next=page.buttons.next %}
