@@ -1,6 +1,9 @@
 ---
 permalink: /docs/dmc-l3l1/
-layout: splash
+layout: single
+classes: wide
+sidebar:
+  nav: "docs"
 title:  "Differentially methylated CpG sites - L3 vs. L1"
 categories: dna-methylation dmc l3l1
 datatable:
@@ -11,8 +14,6 @@ buttons:
   previous: "/docs/dmc-l2l1/"
   next: /docs/differentially-methylated-gene/
 ---
-
-# {{ page.title }}
 
 ## DMCs for L3:L1
 We identified 2555 DMCs for L3:L1 when the following criteria were applied and L1 was used as control.

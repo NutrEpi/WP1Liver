@@ -1,6 +1,9 @@
 ---
 permalink: /docs/dmg-l2l1/
-layout: splash
+layout: single
+classes: wide
+sidebar:
+  nav: "docs"
 title:  "Differentially methylated genes - L2 vs. L1"
 categories: dna-methylation dmg l2l1
 datatable:
@@ -10,8 +13,6 @@ buttons:
   previous: "/docs/differentially-methylated-gene/"
   next: "/docs/dmg-l3l1/"
 ---
-
-# {{ page.title }}
 
 ## DMGs for L2:L1
 We identified 1998 DMGs for L2:L1. We defined DMGs as the genes that required the following conditions.

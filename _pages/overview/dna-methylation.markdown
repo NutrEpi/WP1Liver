@@ -63,7 +63,7 @@ We split the genome into seven different regions for our RRBS analysis.
 </div>
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/dna/genomic_regions.svg" alt="Genomic regions for RRBS read alignment" >
+  <img src="{{ site.baseurl }}/assets/images/dna/genomic_regions_liver.svg" alt="Genomic regions for RRBS read alignment" >
   <figcaption>Definition of genomic regions for RRBS read alignment.</figcaption>
 </figure>
 
@@ -78,14 +78,14 @@ The following tools were those we used in our main RRBS pipeline.
 
 ## Results
 ### Overall diet effect
-Unlike RNA-seq samples, t-SNE clustering analysis showed no obvious separations of RRBS samples by diet.
+Unlike the RNA-seq samples, t-SNE clustering analysis showed no obvious separations of RRBS samples by diet.
 <figure>
-    <img src="{{ site.baseurl }}/assets/images/dna/rrbs_tsne.svg" alt="t-SNE clustering for RRBS samples" >
+    <img src="{{ site.baseurl }}/assets/images/dna/rrbs_tsne_liver.svg" alt="t-SNE clustering for RRBS samples" >
     <figcaption>t-SNE (t-distributed stochastic neighbor embedding) clustering of 21 RRBS samples.</figcaption>
 </figure>
 
 ### Differentially methylated CpG sites
-There are no noticeable differences between L2:L1 and L3:L1 as well as hypo- and hyper-methylation in terms of the number of DMCs.
+There were no noticeable differences between L2:L1 and L3:L1 as well as hypo- and hyper-methylation in terms of the number of DMCs.
 
 {% capture dmcs %}
 - **L2 vs. L1**: 2521 DMCs
@@ -98,8 +98,8 @@ There are no noticeable differences between L2:L1 and L3:L1 as well as hypo- and
 </div>
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/images/dna/dmc.png" alt="Volcano plots of DMCs">
-    <figcaption>Volcano plots of DMCs.</figcaption>
+    <img src="{{ site.baseurl }}/assets/images/dna/dmc_liver.png" alt="Violin plots of DMCs">
+    <figcaption>Violin plots of DMCs.</figcaption>
 </figure>
 
 See [What are DMCs?]({{ site.baseurl }}/docs/differentially-methylated-cpg-site/){: .btn} for more details about DMCs.

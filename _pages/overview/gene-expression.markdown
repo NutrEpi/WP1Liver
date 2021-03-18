@@ -44,7 +44,7 @@ The following tools were those we used in our main RNA-seq pipeline.
 
 ## Results
 ### Overall diet effect
-Clustering analysis clearly separates our 12 liver samples into three groups by diet with L2 being in the middle.
+Clustering analysis clearly separated the liver samples into three groups by diet with L2 being in the middle.
 <figure>
     <img src="{{ site.baseurl }}/assets/images/rna/pca_liver_top500.svg" alt="PCA bi-plot for RNA-seq samples" >
     <figcaption>PCA (principal component analysis) bi-plot with top 500 high variance genes of RNA-seq counts with VST (variance stabilization transformation).</figcaption>
@@ -64,9 +64,9 @@ L3 diet affected gene expression profiles more than L2 diet in terms of the numb
 </div>
 
 <figure class="half">
-    <img src="{{ site.baseurl }}/assets/images/rna/volcate_l1l2_a.svg" alt="Violin plot of L2:L1 DEGs">
-    <img src="{{ site.baseurl }}/assets/images/rna/volcate_l1l3_a.svg" alt="Violin plot of L3:L1 DEGs">
-    <figcaption>Body weights and HSI at smolt and final harvest stages.</figcaption>
+    <img src="{{ site.baseurl }}/assets/images/rna/volcate_liver_l1l2_a.svg" alt="Violin plot of L2:L1 DEGs">
+    <img src="{{ site.baseurl }}/assets/images/rna/volcate_liver_l1l3_a.svg" alt="Violin plot of L3:L1 DEGs">
+    <figcaption>Volcano plots of differentially expressed genes in L2:L1 and L3:L1.</figcaption>
 </figure>
 
 See [What are DEGs?]({{ site.baseurl }}/docs/differentially-expressed-gene/){: .btn} for more details about DEGs.
@@ -78,8 +78,11 @@ Gene expression patterns in lipid metabolism were affected in a dose dependant m
 that most [KEGG](https://www.genome.jp/kegg/){: .btn} (Kyoto Encyclopedia of Genes and Genomes
 ) enriched pathways were down-regulated by micronutrient supplements.
 
+[GSEA](https://www.gsea-msigdb.org/gsea/index.jsp){: .btn} produces normalized enrichment scores (NESs)
+that indicate the trend of either up (positive value) or down (negative value) regulation of the identified pathways.
+
 {% include table.html id='table_rnaseq_gsea' data=site.data.rna.rnaseq_gsea
-   caption='Enriched KEGG pathways by GSEA (gene set enrichment analysis).' %}
+   caption='Enriched KEGG pathways with NESs by GSEA.' %}
 
 ## Page links
 *Overview*

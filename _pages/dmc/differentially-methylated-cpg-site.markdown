@@ -47,8 +47,8 @@ There are no noticeable differences between L2:L1 and L3:L1 as well as hypo- and
 </div>
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/images/dna/dmc.png" alt="Volcano plots of DMCs">
-    <figcaption>Volcano plots of DMCs.</figcaption>
+    <img src="{{ site.baseurl }}/assets/images/dna/dmc_liver.png" alt="Violin plots of DMCs">
+    <figcaption>Violin plots of DMCs.</figcaption>
 </figure>
 
 ## Analysis of DMCs
