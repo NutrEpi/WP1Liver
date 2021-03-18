@@ -13,9 +13,10 @@ categories: summary
 
 Project summary of NutrEpi WP1 (Liver).
 
-## Background
-The primary purpose of this study is to elucidate the effect of micronutrient (vitamins and minerals) on metabolic pathways from a genetic and epigenetic point of view. Specifically, our aim is to analyse and understand the influences of micronutrients in Atlantic salmon feed through [a whole life cycle feeding trial](https://doi.org/10.1016/j.aquaculture.2020.735551){: .btn} (over 54 weeks for salmon) conducted under the EU funded [ARRAINA](https://www.arraina.eu/){: .btn} (advanced research initiatives for nutrition and aquaculture) project.
+## Objective
+The primary goal of the project is to elucidate the effect of micronutrient (vitamins and minerals) on metabolic pathways from a genetic and epigenetic point of view. Specifically, our aim is to analyse and understand the influences of micronutrients in Atlantic salmon feed through [a whole life cycle feeding trial](https://doi.org/10.1016/j.aquaculture.2020.735551){: .btn} (over 54 weeks for salmon) conducted under the EU funded [ARRAINA](https://www.arraina.eu/){: .btn} (advanced research initiatives for nutrition and aquaculture) project.
 
+## Background
 With the rapid expansion of the aquaculture industry in the last two decades, we can hardly sustain traditional practices as feeding fish to grow other fish. Hence, aquaculture feeds have been shifted to containing more plant-based materials. Consequently, the optimised levels of nutrition, including micronutrient, are altered and need to be updated to produce healthier and more nutritious fish.
 
 New knowledge regarding genetic and epigenetic regulations acquired through this project may contribute to the global effort on solving a word-wide problem of micronutrient deficiencies called "hidden hunger". Ending all forms of malnutrition including micronutrient deficiencies is one of the [SDGs](https://sdgs.un.org/goals){: .btn} (sustainable development goals) proposed by the UN.
@@ -35,7 +36,7 @@ We collected liver samples at the final harvest stage for gene expression and DN
 Through the trial, Atlantic salmon in triplicate groups - L1, L2, L3 - were fed with graded levels of micronutrient supplements, formulated with nutrition package (NP).
 
 {% capture feed %}
-- **L1**: 100% NP (recommended composition of NP)
+- **L1**: 100% NP (recommended composition of micronutrients)
 - **L2**: 200% NP
 - **L3**: 400% NP
 {% endcapture %}
@@ -105,7 +106,7 @@ Through the trial, Atlantic salmon in triplicate groups - L1, L2, L3 - were fed 
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">3. Acetyl-CoA carboxylase alpha (<i>acaca</i>)</h4>
+  <h4 class="no_toc">3. Epigenetic regulations of acetyl-CoA carboxylase alpha (<i>acaca</i>)</h4>
   {{ res3 | markdownify }}
 </div>
 
