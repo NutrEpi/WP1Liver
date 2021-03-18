@@ -12,7 +12,7 @@ Please use our contact form below if you have any questions, comments or feedbac
 <!-- modify this form HTML and place wherever you want your form -->
 
 <form
-  action="https://formspree.io/f/mwkwayal"
+  action="https://formspree.io/f/mzbknqar"
   method="POST"
 >
   <input type="hidden" name="_subject" value="NutrEpiWP1Liver feedback">
