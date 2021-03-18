@@ -10,9 +10,6 @@ datatable:
   id: dmcl3l1
   nrow: 2525
   nowrap: "Q-value"
-buttons:
-  previous: "/docs/differentially-methylated-cpg-site/"
-  next: "/docs/dmc-l3l1/"
 ---
 
 ## DMCs for L2:L1
@@ -40,6 +37,3 @@ We identified 2525 DMCs for L2:L1 when the following criteria were applied and L
 {% include datatable.html id=page.datatable.id
   data=site.data.dmc.dmcl2l1 nrow=page.datatable.nrow
   nowrap=page.datatable.nowrap %}
-
-{% include widepage_buttons.html previous=page.buttons.previous
-  next=page.buttons.next %}
