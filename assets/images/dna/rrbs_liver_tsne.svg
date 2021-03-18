@@ -13,7 +13,7 @@
    sodipodi:docname="rrbs_tsne.svg"
    width="120mm"
    height="73mm"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
   <metadata
      id="metadata272">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -179,336 +179,231 @@
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon45"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g49"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="128.94"
-       y="108.96"
-       style="font-size:8.54px;font-family:Arimo;fill:#00ba38"
-       id="text47">L16</text>
-  </g>
+  <text
+     x="194.04718"
+     y="93.782158"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#00ba38;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text47">L16</text>
   <polygon
      points="245.95,211.03 246.29,210.96 246.61,210.84 246.91,210.67 247.18,210.45 247.41,210.19 247.6,209.89 247.74,209.57 247.82,209.24 247.85,208.89 247.85,200.14 247.82,199.79 247.74,199.45 247.6,199.13 247.41,198.84 247.18,198.58 246.91,198.36 246.61,198.18 246.29,198.06 245.95,197.99 245.69,197.98 228.57,197.98 228.83,197.99 228.48,197.98 228.13,198.02 227.8,198.12 227.49,198.27 227.2,198.46 226.95,198.7 226.74,198.98 226.58,199.29 226.47,199.62 226.41,199.96 226.41,200.14 226.41,208.89 226.41,208.72 226.41,209.06 226.47,209.41 226.58,209.74 226.74,210.04 226.95,210.32 227.2,210.56 227.49,210.76 227.8,210.91 228.13,211.01 228.48,211.05 228.57,211.05 245.69,211.05 245.6,211.05 "
      style="fill:#ffffff;stroke:#f8766d;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon51"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g55"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="230.00999"
-       y="207.45"
-       style="font-size:8.54px;font-family:Arimo;fill:#f8766d"
-       id="text53">L22</text>
-  </g>
+  <text
+     x="299.10391"
+     y="196.15712"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#f8766d;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text53">L22</text>
   <polygon
      points="239.97,135.35 240.31,135.28 240.63,135.16 240.93,134.98 241.2,134.76 241.43,134.5 241.62,134.21 241.75,133.89 241.84,133.55 241.87,133.2 241.87,124.45 241.84,124.11 241.75,123.77 241.62,123.45 241.43,123.15 241.2,122.89 240.93,122.67 240.63,122.5 240.31,122.38 239.97,122.31 239.71,122.29 222.58,122.29 222.84,122.31 222.5,122.29 222.15,122.34 221.82,122.43 221.5,122.58 221.22,122.78 220.97,123.02 220.76,123.3 220.6,123.6 220.49,123.93 220.43,124.28 220.42,124.45 220.42,133.2 220.43,133.03 220.43,133.38 220.49,133.72 220.6,134.05 220.76,134.36 220.97,134.64 221.22,134.88 221.5,135.07 221.82,135.22 222.15,135.32 222.5,135.36 222.58,135.36 239.71,135.36 239.62,135.36 "
      style="fill:#ffffff;stroke:#00ba38;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon57"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g61"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="224.02"
-       y="131.75999"
-       style="font-size:8.54px;font-family:Arimo;fill:#00ba38"
-       id="text59">L20</text>
-  </g>
+  <text
+     x="292.87766"
+     y="117.48151"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#00ba38;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text59">L20</text>
   <polygon
      points="164.04,142.4 164.39,142.33 164.71,142.21 165.01,142.04 165.28,141.82 165.51,141.56 165.7,141.26 165.83,140.94 165.92,140.6 165.94,140.26 165.94,131.5 165.92,131.16 165.83,130.82 165.7,130.5 165.51,130.21 165.28,129.95 165.01,129.73 164.71,129.55 164.39,129.43 164.04,129.36 163.78,129.34 146.66,129.34 146.92,129.36 146.58,129.35 146.23,129.39 145.9,129.49 145.58,129.63 145.3,129.83 145.05,130.07 144.84,130.35 144.68,130.66 144.57,130.99 144.51,131.33 144.5,131.5 144.5,140.26 144.51,140.08 144.51,140.43 144.57,140.77 144.68,141.1 144.84,141.41 145.05,141.69 145.3,141.93 145.58,142.13 145.9,142.28 146.23,142.37 146.58,142.42 146.66,142.42 163.78,142.42 163.7,142.42 "
      style="fill:#ffffff;stroke:#f8766d;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon63"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g67"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="148.10001"
-       y="138.82001"
-       style="font-size:8.54px;font-family:Arimo;fill:#f8766d"
-       id="text65">L12</text>
-  </g>
+  <text
+     x="213.96295"
+     y="124.82"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#f8766d;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text65">L12</text>
   <polygon
      points="186.91,112.22 187.25,112.15 187.57,112.03 187.88,111.86 188.14,111.64 188.38,111.38 188.56,111.08 188.7,110.76 188.78,110.42 188.81,110.08 188.81,101.33 188.78,100.98 188.7,100.64 188.56,100.32 188.38,100.03 188.14,99.77 187.88,99.55 187.57,99.37 187.25,99.25 186.91,99.18 186.65,99.17 169.53,99.17 169.79,99.18 169.44,99.17 169.09,99.21 168.76,99.31 168.45,99.46 168.16,99.65 167.91,99.89 167.7,100.17 167.54,100.48 167.43,100.81 167.37,101.15 167.37,101.33 167.37,110.08 167.37,109.9 167.37,110.25 167.43,110.6 167.54,110.92 167.7,111.23 167.91,111.51 168.16,111.75 168.45,111.95 168.76,112.1 169.09,112.19 169.44,112.24 169.53,112.24 186.65,112.24 186.56,112.24 "
      style="fill:#ffffff;stroke:#f8766d;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon69"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g73"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="170.97"
-       y="108.64"
-       style="font-size:8.54px;font-family:Arimo;fill:#f8766d"
-       id="text71">L11</text>
-  </g>
+  <text
+     x="237.73506"
+     y="93.449532"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#f8766d;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text71">L11</text>
   <polygon
      points="113.55,80.49 113.89,80.42 114.22,80.29 114.52,80.12 114.79,79.9 115.02,79.64 115.21,79.35 115.34,79.03 115.43,78.69 115.45,78.34 115.45,69.59 115.43,69.24 115.34,68.91 115.21,68.59 115.02,68.29 114.79,68.03 114.52,67.81 114.22,67.64 113.89,67.52 113.55,67.45 113.29,67.43 96.17,67.43 96.43,67.45 96.09,67.43 95.74,67.47 95.41,67.57 95.09,67.72 94.81,67.92 94.56,68.16 94.35,68.44 94.18,68.74 94.07,69.07 94.02,69.42 94.01,69.59 94.01,78.34 94.02,78.17 94.02,78.52 94.07,78.86 94.18,79.19 94.35,79.5 94.56,79.78 94.81,80.02 95.09,80.21 95.41,80.36 95.74,80.46 96.09,80.5 96.17,80.5 113.29,80.5 113.21,80.5 "
      style="fill:#ffffff;stroke:#f8766d;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon75"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g79"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="97.610001"
-       y="76.900002"
-       style="font-size:8.54px;font-family:Arimo;fill:#f8766d"
-       id="text77">L24</text>
-  </g>
+  <text
+     x="161.48135"
+     y="60.457542"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#f8766d;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text77">L24</text>
   <polygon
      points="166.53,156.38 166.87,156.31 167.19,156.19 167.5,156.01 167.77,155.79 168,155.53 168.18,155.24 168.32,154.92 168.4,154.58 168.43,154.23 168.43,145.48 168.4,145.14 168.32,144.8 168.18,144.48 168,144.18 167.77,143.92 167.5,143.7 167.19,143.53 166.87,143.41 166.53,143.34 166.27,143.32 149.15,143.32 149.41,143.34 149.06,143.32 148.72,143.37 148.38,143.46 148.07,143.61 147.78,143.81 147.53,144.05 147.32,144.33 147.16,144.64 147.05,144.97 146.99,145.31 146.99,145.48 146.99,154.23 146.99,154.06 146.99,154.41 147.05,154.75 147.16,155.08 147.32,155.39 147.53,155.67 147.78,155.91 148.07,156.11 148.38,156.25 148.72,156.35 149.06,156.39 149.15,156.39 166.27,156.39 166.18,156.39 "
      style="fill:#ffffff;stroke:#f8766d;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon81"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g85"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="150.59"
-       y="152.78999"
-       style="font-size:8.54px;font-family:Arimo;fill:#f8766d"
-       id="text83">L23</text>
-  </g>
+  <text
+     x="216.55116"
+     y="139.34103"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#f8766d;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text83">L23</text>
   <polygon
      points="93.92,190.87 94.26,190.8 94.59,190.68 94.89,190.5 95.16,190.28 95.39,190.02 95.57,189.73 95.71,189.41 95.79,189.07 95.82,188.73 95.82,179.97 95.79,179.63 95.71,179.29 95.57,178.97 95.39,178.68 95.16,178.41 94.89,178.19 94.59,178.02 94.26,177.9 93.92,177.83 93.66,177.81 81.29,177.81 81.55,177.83 81.2,177.81 80.86,177.86 80.52,177.95 80.21,178.1 79.92,178.3 79.67,178.54 79.46,178.82 79.3,179.13 79.19,179.46 79.13,179.8 79.13,179.97 79.13,188.73 79.13,188.55 79.13,188.9 79.19,189.24 79.3,189.57 79.46,189.88 79.67,190.16 79.92,190.4 80.21,190.6 80.52,190.74 80.86,190.84 81.2,190.88 81.29,190.89 93.66,190.89 93.57,190.88 "
      style="fill:#ffffff;stroke:#619cff;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon87"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g91"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="82.730003"
-       y="187.28999"
-       style="font-size:8.54px;font-family:Arimo;fill:#619cff"
-       id="text89">L6</text>
-  </g>
+  <text
+     x="146.01442"
+     y="175.2019"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#619cff;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text89">L6</text>
   <polygon
      points="170.65,172.46 170.99,172.39 171.31,172.27 171.61,172.09 171.88,171.87 172.11,171.61 172.3,171.32 172.44,171 172.52,170.66 172.55,170.31 172.55,161.56 172.52,161.22 172.44,160.88 172.3,160.56 172.11,160.26 171.88,160 171.61,159.78 171.31,159.61 170.99,159.49 170.65,159.42 170.39,159.4 158.01,159.4 158.27,159.42 157.92,159.4 157.58,159.45 157.25,159.54 156.93,159.69 156.65,159.89 156.4,160.13 156.19,160.41 156.02,160.72 155.91,161.05 155.86,161.39 155.85,161.56 155.85,170.31 155.86,170.14 155.86,170.49 155.91,170.83 156.02,171.16 156.19,171.47 156.4,171.75 156.65,171.99 156.93,172.19 157.25,172.33 157.58,172.43 157.92,172.47 158.01,172.47 170.39,172.47 170.3,172.47 "
      style="fill:#ffffff;stroke:#00ba38;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon93"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g97"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="159.45"
-       y="168.87"
-       style="font-size:8.54px;font-family:Arimo;fill:#00ba38"
-       id="text95">L1</text>
-  </g>
+  <text
+     x="225.76065"
+     y="156.05531"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#00ba38;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text95">L1</text>
   <polygon
      points="55.76,164.64 56.1,164.57 56.43,164.45 56.73,164.28 57,164.06 57.23,163.8 57.41,163.5 57.55,163.18 57.63,162.85 57.66,162.5 57.66,153.75 57.63,153.4 57.55,153.06 57.41,152.74 57.23,152.45 57,152.19 56.73,151.97 56.43,151.8 56.1,151.67 55.76,151.6 55.5,151.59 38.38,151.59 38.64,151.6 38.29,151.59 37.95,151.63 37.61,151.73 37.3,151.88 37.01,152.07 36.76,152.31 36.55,152.59 36.39,152.9 36.28,153.23 36.22,153.57 36.22,153.75 36.22,162.5 36.22,162.33 36.22,162.67 36.28,163.02 36.39,163.35 36.55,163.65 36.76,163.93 37.01,164.17 37.3,164.37 37.61,164.52 37.95,164.62 38.29,164.66 38.38,164.66 55.5,164.66 55.41,164.66 "
      style="fill:#ffffff;stroke:#619cff;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon99"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g103"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="39.82"
-       y="161.06"
-       style="font-size:8.54px;font-family:Arimo;fill:#619cff"
-       id="text101">L30</text>
-  </g>
+  <text
+     x="101.41181"
+     y="147.93726"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#619cff;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text101">L30</text>
   <polygon
      points="280.12,168.88 280.46,168.81 280.79,168.69 281.09,168.52 281.36,168.3 281.59,168.04 281.78,167.74 281.91,167.42 282,167.08 282.02,166.74 282.02,157.99 282,157.64 281.91,157.3 281.78,156.98 281.59,156.69 281.36,156.43 281.09,156.21 280.79,156.03 280.46,155.91 280.12,155.84 279.86,155.83 262.74,155.83 263,155.84 262.65,155.83 262.31,155.87 261.98,155.97 261.66,156.11 261.38,156.31 261.12,156.55 260.92,156.83 260.75,157.14 260.64,157.47 260.59,157.81 260.58,157.99 260.58,166.74 260.59,166.56 260.59,166.91 260.64,167.25 260.75,167.58 260.92,167.89 261.12,168.17 261.38,168.41 261.66,168.61 261.98,168.76 262.31,168.85 262.65,168.9 262.74,168.9 279.86,168.9 279.78,168.9 "
      style="fill:#ffffff;stroke:#f8766d;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon105"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g109"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="264.17999"
-       y="165.3"
-       style="font-size:8.54px;font-family:Arimo;fill:#f8766d"
-       id="text107">L43</text>
-  </g>
+  <text
+     x="334.62177"
+     y="152.34451"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#f8766d;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text107">L43</text>
   <polygon
      points="215.71,77.37 216.05,77.3 216.38,77.18 216.68,77 216.95,76.78 217.18,76.52 217.36,76.23 217.5,75.91 217.58,75.57 217.61,75.22 217.61,66.47 217.58,66.12 217.5,65.79 217.36,65.47 217.18,65.17 216.95,64.91 216.68,64.69 216.38,64.52 216.05,64.4 215.71,64.33 215.45,64.31 198.33,64.31 198.59,64.33 198.24,64.31 197.9,64.35 197.56,64.45 197.25,64.6 196.96,64.8 196.71,65.04 196.5,65.32 196.34,65.62 196.23,65.95 196.17,66.3 196.17,66.47 196.17,75.22 196.17,75.05 196.17,75.4 196.23,75.74 196.34,76.07 196.5,76.38 196.71,76.66 196.96,76.9 197.25,77.09 197.56,77.24 197.9,77.34 198.24,77.38 198.33,77.38 215.45,77.38 215.36,77.38 "
      style="fill:#ffffff;stroke:#619cff;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon111"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g115"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="199.77"
-       y="73.779999"
-       style="font-size:8.54px;font-family:Arimo;fill:#619cff"
-       id="text113">L28</text>
-  </g>
+  <text
+     x="267.67108"
+     y="57.21447"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#619cff;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text113">L28</text>
   <polygon
      points="198.52,142.83 198.86,142.76 199.19,142.64 199.49,142.47 199.76,142.25 199.99,141.99 200.18,141.69 200.31,141.37 200.39,141.04 200.42,140.69 200.42,131.94 200.39,131.59 200.31,131.25 200.18,130.93 199.99,130.64 199.76,130.38 199.49,130.16 199.19,129.99 198.86,129.86 198.52,129.79 198.26,129.78 181.14,129.78 181.4,129.79 181.05,129.78 180.71,129.82 180.37,129.92 180.06,130.07 179.77,130.26 179.52,130.5 179.32,130.78 179.15,131.09 179.04,131.42 178.99,131.76 178.98,131.94 178.98,140.69 178.99,140.52 178.99,140.86 179.04,141.21 179.15,141.54 179.32,141.84 179.52,142.12 179.77,142.36 180.06,142.56 180.37,142.71 180.71,142.81 181.05,142.85 181.14,142.85 198.26,142.85 198.18,142.85 "
      style="fill:#ffffff;stroke:#00ba38;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon117"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g121"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="182.58"
-       y="139.25"
-       style="font-size:8.54px;font-family:Arimo;fill:#00ba38"
-       id="text119">L18</text>
-  </g>
+  <text
+     x="249.80302"
+     y="125.26695"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#00ba38;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text119">L18</text>
   <polygon
      points="136.68,183.83 137.02,183.76 137.35,183.64 137.65,183.46 137.92,183.24 138.15,182.98 138.33,182.69 138.47,182.37 138.55,182.03 138.58,181.68 138.58,172.93 138.55,172.59 138.47,172.25 138.33,171.93 138.15,171.63 137.92,171.37 137.65,171.15 137.35,170.98 137.02,170.86 136.68,170.79 136.42,170.77 119.3,170.77 119.56,170.79 119.21,170.77 118.87,170.82 118.53,170.91 118.22,171.06 117.93,171.26 117.68,171.5 117.47,171.78 117.31,172.09 117.2,172.42 117.15,172.76 117.14,172.93 117.14,181.68 117.15,181.51 117.15,181.86 117.2,182.2 117.31,182.53 117.47,182.84 117.68,183.12 117.93,183.36 118.22,183.56 118.53,183.7 118.87,183.8 119.21,183.84 119.3,183.84 136.42,183.84 136.33,183.84 "
      style="fill:#ffffff;stroke:#f8766d;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon123"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g127"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="120.74"
-       y="180.24001"
-       style="font-size:8.54px;font-family:Arimo;fill:#f8766d"
-       id="text125">L14</text>
-  </g>
+  <text
+     x="185.52373"
+     y="167.87383"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#f8766d;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text125">L14</text>
   <polygon
      points="215.53,172.86 215.87,172.79 216.19,172.67 216.49,172.49 216.76,172.27 216.99,172.01 217.18,171.72 217.31,171.4 217.4,171.06 217.43,170.71 217.43,161.96 217.4,161.61 217.31,161.28 217.18,160.96 216.99,160.66 216.76,160.4 216.49,160.18 216.19,160.01 215.87,159.89 215.53,159.82 215.27,159.8 198.14,159.8 198.4,159.82 198.06,159.8 197.71,159.84 197.38,159.94 197.06,160.09 196.78,160.29 196.53,160.53 196.32,160.81 196.16,161.11 196.05,161.44 195.99,161.79 195.98,161.96 195.98,170.71 195.99,170.54 195.99,170.89 196.05,171.23 196.16,171.56 196.32,171.87 196.53,172.15 196.78,172.39 197.06,172.58 197.38,172.73 197.71,172.83 198.06,172.87 198.14,172.87 215.27,172.87 215.18,172.87 "
      style="fill:#ffffff;stroke:#619cff;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon129"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g133"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="199.58"
-       y="169.27"
-       style="font-size:8.54px;font-family:Arimo;fill:#619cff"
-       id="text131">L38</text>
-  </g>
+  <text
+     x="267.4736"
+     y="156.4711"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#619cff;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text131">L38</text>
   <polygon
      points="101.4,133.9 101.74,133.83 102.07,133.71 102.37,133.53 102.64,133.31 102.87,133.05 103.05,132.76 103.19,132.44 103.27,132.1 103.3,131.76 103.3,123 103.27,122.66 103.19,122.32 103.05,122 102.87,121.71 102.64,121.45 102.37,121.23 102.07,121.05 101.74,120.93 101.4,120.86 101.14,120.84 84.02,120.84 84.28,120.86 83.93,120.85 83.59,120.89 83.25,120.98 82.94,121.13 82.65,121.33 82.4,121.57 82.19,121.85 82.03,122.16 81.92,122.49 81.87,122.83 81.86,123 81.86,131.76 81.87,131.58 81.87,131.93 81.92,132.27 82.03,132.6 82.19,132.91 82.4,133.19 82.65,133.43 82.94,133.63 83.25,133.78 83.59,133.87 83.93,133.91 84.02,133.92 101.14,133.92 101.05,133.91 "
      style="fill:#ffffff;stroke:#00ba38;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon135"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g139"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="85.459999"
-       y="130.32001"
-       style="font-size:8.54px;font-family:Arimo;fill:#00ba38"
-       id="text137">L33</text>
-  </g>
+  <text
+     x="148.8521"
+     y="115.98472"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#00ba38;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text137">L33</text>
   <polygon
      points="189.84,202.62 190.18,202.55 190.5,202.42 190.8,202.25 191.07,202.03 191.3,201.77 191.49,201.48 191.62,201.16 191.71,200.82 191.74,200.47 191.74,191.72 191.71,191.37 191.62,191.04 191.49,190.72 191.3,190.42 191.07,190.16 190.8,189.94 190.5,189.77 190.18,189.65 189.84,189.58 189.58,189.56 172.45,189.56 172.71,189.58 172.37,189.56 172.02,189.6 171.69,189.7 171.37,189.85 171.09,190.05 170.84,190.29 170.63,190.57 170.47,190.87 170.36,191.2 170.3,191.55 170.29,191.72 170.29,200.47 170.3,200.3 170.3,200.65 170.36,200.99 170.47,201.32 170.63,201.63 170.84,201.91 171.09,202.15 171.37,202.34 171.69,202.49 172.02,202.59 172.37,202.63 172.45,202.63 189.58,202.63 189.49,202.63 "
      style="fill:#ffffff;stroke:#00ba38;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon141"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g145"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="173.89"
-       y="199.03"
-       style="font-size:8.54px;font-family:Arimo;fill:#00ba38"
-       id="text143">L32</text>
-  </g>
+  <text
+     x="240.77025"
+     y="187.405"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#00ba38;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text143">L32</text>
   <polygon
      points="200.44,254.77 200.78,254.7 201.11,254.58 201.41,254.4 201.68,254.18 201.91,253.92 202.09,253.63 202.23,253.31 202.31,252.97 202.34,252.62 202.34,243.87 202.31,243.53 202.23,243.19 202.09,242.87 201.91,242.57 201.68,242.31 201.41,242.09 201.11,241.92 200.78,241.8 200.44,241.73 200.18,241.71 183.06,241.71 183.32,241.73 182.97,241.71 182.63,241.76 182.29,241.85 181.98,242 181.69,242.2 181.44,242.44 181.23,242.72 181.07,243.03 180.96,243.36 180.91,243.7 180.9,243.87 180.9,252.62 180.91,252.45 180.91,252.8 180.96,253.14 181.07,253.47 181.23,253.78 181.44,254.06 181.69,254.3 181.98,254.5 182.29,254.64 182.63,254.74 182.97,254.78 183.06,254.78 200.18,254.78 200.09,254.78 "
      style="fill:#ffffff;stroke:#619cff;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon147"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g151"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="184.5"
-       y="251.17999"
-       style="font-size:8.54px;font-family:Arimo;fill:#619cff"
-       id="text149">L26</text>
-  </g>
+  <text
+     x="251.79877"
+     y="241.61206"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#619cff;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text149">L26</text>
   <polygon
      points="101.41,238.6 101.75,238.54 102.08,238.41 102.38,238.24 102.65,238.02 102.88,237.76 103.06,237.46 103.2,237.14 103.28,236.81 103.31,236.46 103.31,227.71 103.28,227.36 103.2,227.02 103.06,226.7 102.88,226.41 102.65,226.15 102.38,225.93 102.08,225.76 101.75,225.63 101.41,225.56 101.15,225.55 84.03,225.55 84.29,225.56 83.94,225.55 83.6,225.59 83.26,225.69 82.95,225.84 82.66,226.03 82.41,226.28 82.2,226.55 82.04,226.86 81.93,227.19 81.88,227.53 81.87,227.71 81.87,236.46 81.88,236.29 81.88,236.63 81.93,236.98 82.04,237.31 82.2,237.61 82.41,237.89 82.66,238.13 82.95,238.33 83.26,238.48 83.6,238.58 83.94,238.62 84.03,238.62 101.15,238.62 101.06,238.62 "
      style="fill:#ffffff;stroke:#f8766d;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon153"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g157"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="85.470001"
-       y="235.02"
-       style="font-size:8.54px;font-family:Arimo;fill:#f8766d"
-       id="text155">L13</text>
-  </g>
+  <text
+     x="148.86249"
+     y="224.81464"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#f8766d;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text155">L13</text>
   <polygon
      points="153.72,221.62 154.06,221.55 154.38,221.42 154.68,221.25 154.95,221.03 155.18,220.77 155.37,220.47 155.5,220.15 155.59,219.82 155.62,219.47 155.62,210.72 155.59,210.37 155.5,210.03 155.37,209.71 155.18,209.42 154.95,209.16 154.68,208.94 154.38,208.77 154.06,208.64 153.72,208.57 153.46,208.56 136.33,208.56 136.59,208.57 136.25,208.56 135.9,208.6 135.57,208.7 135.25,208.85 134.97,209.05 134.72,209.29 134.51,209.56 134.35,209.87 134.24,210.2 134.18,210.54 134.17,210.72 134.17,219.47 134.18,219.3 134.18,219.64 134.24,219.99 134.35,220.32 134.51,220.63 134.72,220.9 134.97,221.14 135.25,221.34 135.57,221.49 135.9,221.59 136.25,221.63 136.33,221.63 153.46,221.63 153.37,221.63 "
      style="fill:#ffffff;stroke:#f8766d;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon159"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g163"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="137.77"
-       y="218.03"
-       style="font-size:8.54px;font-family:Arimo;fill:#f8766d"
-       id="text161">L42</text>
-  </g>
+  <text
+     x="203.22548"
+     y="207.15445"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#f8766d;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text161">L42</text>
   <polygon
      points="129.59,150.12 129.93,150.05 130.25,149.93 130.56,149.75 130.82,149.53 131.06,149.27 131.24,148.98 131.38,148.66 131.46,148.32 131.49,147.98 131.49,139.22 131.46,138.88 131.38,138.54 131.24,138.22 131.06,137.93 130.82,137.66 130.56,137.45 130.25,137.27 129.93,137.15 129.59,137.08 129.33,137.06 116.95,137.06 117.21,137.08 116.87,137.06 116.52,137.11 116.19,137.2 115.87,137.35 115.59,137.55 115.34,137.79 115.13,138.07 114.97,138.38 114.86,138.71 114.8,139.05 114.79,139.22 114.79,147.98 114.8,147.8 114.8,148.15 114.86,148.49 114.97,148.82 115.13,149.13 115.34,149.41 115.59,149.65 115.87,149.85 116.19,149.99 116.52,150.09 116.87,150.13 116.95,150.14 129.33,150.14 129.24,150.13 "
      style="fill:#ffffff;stroke:#619cff;stroke-width:0.53;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
      clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
      id="polygon165"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMzUuNzJ8MjgyLjUyfDI1Ny4xMnw2MS45OA==)"
-     id="g169"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="118.39"
-       y="146.53999"
-       style="font-size:8.54px;font-family:Arimo;fill:#619cff"
-       id="text167">L7</text>
-  </g>
+  <text
+     x="183.08102"
+     y="132.8445"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#619cff;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text167">L7</text>
   <rect
      x="35.720001"
      y="61.98"
@@ -531,36 +426,21 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
     </clipPath>
   </defs>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g180"
-     transform="matrix(1.0394453,0,0,1.0394453,58.021103,-19.475803)">
-    <text
-       x="18.07"
-       y="218.2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.2619px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
-       id="text178">-20</text>
-  </g>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g184"
-     transform="matrix(1.0394453,0,0,1.0394453,58.021103,-19.475803)">
-    <text
-       x="25.889999"
-       y="159.64"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.2619px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
-       id="text182">0</text>
-  </g>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g188"
-     transform="matrix(1.0394453,0,0,1.0394453,58.021103,-19.475803)">
-    <text
-       x="21"
-       y="101.08"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.2619px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
-       id="text186">20</text>
-  </g>
+  <text
+     x="76.803879"
+     y="207.33116"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:1.03945"
+     id="text178">-20</text>
+  <text
+     x="84.932343"
+     y="146.46124"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:1.03945"
+     id="text182">0</text>
+  <text
+     x="79.849457"
+     y="85.591331"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:1.03945"
+     id="text186">20</text>
   <polyline
      points="32.98,215.17 35.72,215.17 "
      style="fill:none;stroke:#333333;stroke-width:1.07;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
@@ -597,55 +477,32 @@
      clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
      id="polyline200"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)" />
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g204"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-17.475802)">
-    <text
-       x="81.18"
-       y="268.10001"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.2619px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
-       id="text202">-20</text>
-  </g>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g208"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-17.475802)">
-    <text
-       x="155.98"
-       y="268.10001"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.2619px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
-       id="text206">0</text>
-  </g>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g212"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-17.475802)">
-    <text
-       x="224.42999"
-       y="268.10001"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.2619px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"
-       id="text210">20</text>
-  </g>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g216"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-19.475803)">
-    <text
-       x="129.77"
-       y="280.23999"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5446px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text214">Dimention 1</text>
-  </g>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g220"
-     transform="matrix(1.0394453,0,0,1.0394453,62.021103,-19.475803)">
-    <text
-       transform="rotate(-90,100.975,87.925)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5446px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text218">Dimention 2</text>
-  </g>
+  <text
+     x="144.40327"
+     y="261.19949"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:1.03945"
+     id="text202">-20</text>
+  <text
+     x="222.15378"
+     y="261.19949"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:1.03945"
+     id="text206">0</text>
+  <text
+     x="293.3038"
+     y="261.19949"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:1.03945"
+     id="text210">20</text>
+  <text
+     x="194.90993"
+     y="271.81833"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.03945"
+     id="text214">Dimention 1</text>
+  <text
+     transform="rotate(-90)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.03945"
+     id="text218"
+     x="-176.87541"
+     y="75.585861">Dimention 2</text>
   <rect
      x="67.019997"
      y="22.780001"
@@ -677,16 +534,11 @@
      clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
      id="rect230"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-9.4758034)" />
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g234"
-     transform="matrix(1.0394453,0,0,1.0394453,40.021103,-10.230098)">
-    <text
-       x="103.81"
-       y="39.84"
-       style="font-size:8.54px;font-family:Arimo;fill:#f8766d"
-       id="text232">a</text>
-  </g>
+  <text
+     x="147.92592"
+     y="31.181402"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#f8766d;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text232">a</text>
   <rect
      x="148.77"
      y="28.26"
@@ -705,16 +557,11 @@
      clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
      id="rect238"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-9.4758034)" />
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g242"
-     transform="matrix(1.0394453,0,0,1.0394453,40.021103,-10.230098)">
-    <text
-       x="155.03"
-       y="39.84"
-       style="font-size:8.54px;font-family:Arimo;fill:#00ba38"
-       id="text240">a</text>
-  </g>
+  <text
+     x="201.16631"
+     y="31.181402"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#00ba38;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text240">a</text>
   <rect
      x="199.99001"
      y="28.26"
@@ -733,54 +580,29 @@
      clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
      id="rect246"
      transform="matrix(1.0394453,0,0,1.0394453,60.021103,-9.4758034)" />
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g250"
-     transform="matrix(1.0394453,0,0,1.0394453,40.021103,-10.230098)">
-    <text
-       x="206.25999"
-       y="39.84"
-       style="font-size:8.54px;font-family:Arimo;fill:#619cff"
-       id="text248">a</text>
-  </g>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g254"
-     transform="matrix(1.0394453,0,0,1.0394453,32.021103,-9.4758034)">
-    <text
-       x="120.3"
-       y="39.93"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5446px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text252">L1 (9)</text>
-  </g>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g258"
-     transform="matrix(1.0394453,0,0,1.0394453,32.021103,-9.4758034)">
-    <text
-       x="171.53"
-       y="39.93"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5446px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text256">L2 (6)</text>
-  </g>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g262"
-     transform="matrix(1.0394453,0,0,1.0394453,32.021103,-9.4758034)">
-    <text
-       x="222.75"
-       y="39.93"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5446px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text260">L3 (6)</text>
-  </g>
-  <g
-     clip-path="url(#cpMC4wMHwyODguMDB8Mjg4LjAwfDAuMDA=)"
-     id="g266"
-     transform="matrix(1.0394453,0,0,1.0394453,60.021103,-1.4758028)">
-    <text
-       x="35.720001"
-       y="14.56"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8274px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-       id="text264">t-SNE: 21 RRBS samples by diet</text>
-  </g>
+  <text
+     x="254.41708"
+     y="31.181402"
+     style="font-size:9.33333333px;font-family:Helvetica;fill:#619cff;stroke-width:1.03945;-inkscape-font-specification:'Helvetica, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text248">a</text>
+  <text
+     x="157.06638"
+     y="32.029247"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.03945"
+     id="text252">L1 (9)</text>
+  <text
+     x="210.31715"
+     y="32.029247"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.03945"
+     id="text256">L2 (6)</text>
+  <text
+     x="263.55756"
+     y="32.029247"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.03945"
+     id="text260">L3 (6)</text>
+  <text
+     x="97.150093"
+     y="13.658522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3334px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.03945"
+     id="text264">t-SNE: 21 RRBS samples by diet</text>
 </svg>
