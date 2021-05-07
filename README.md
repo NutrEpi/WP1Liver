@@ -28,7 +28,7 @@ Douglas R Tocher, Marit Espe and Kaja H Skjærven
 
 doi: [10.1080/15592294.2020.1859867](https://doi.org/10.1080/15592294.2020.1859867)
 
-## Search engine indexing
+## Search engine index
 Our sitemap.xml is registered with search engines by using the following tools.
 
 - [Google Search Console](https://search.google.com/search-console/)
